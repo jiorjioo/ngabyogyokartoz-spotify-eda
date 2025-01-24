@@ -1,0 +1,686 @@
+,nama_band,genre,nama_album,tipe,tgl_rilis,judul_lagu,track_popularity,durasi,energy,danceability,tempo,instrumentalness,loudness,speech,liveness,valence
+0,The Jeblogs,['indonesian indie rock'],Sambutlah,album,2023-12-22,Menari Resah,37,194358,0.774,0.36,155.003,0.706,-7.039,0.0371,0.42,0.453
+1,The Jeblogs,['indonesian indie rock'],Sambutlah,album,2023-12-22,Bersandarlah,47,260000,0.835,0.412,142.96,0.166,-6.537,0.0404,0.639,0.29
+2,The Jeblogs,['indonesian indie rock'],Sambutlah,album,2023-12-22,Pulang,36,213507,0.731,0.438,122.963,0.524,-6.44,0.0404,0.126,0.407
+3,The Jeblogs,['indonesian indie rock'],Sambutlah,album,2023-12-22,Sambutlah,45,301143,0.861,0.496,138.031,0.241,-6.767,0.0441,0.456,0.546
+4,The Jeblogs,['indonesian indie rock'],Sambutlah,album,2023-12-22,Lautan Api,35,189016,0.766,0.489,164.912,0.0939,-6.636,0.0323,0.107,0.561
+5,The Jeblogs,['indonesian indie rock'],Sambutlah,album,2023-12-22,Sebat Dulu,36,180952,0.679,0.598,119.99,0.682,-6.524,0.0334,0.142,0.526
+6,The Jeblogs,['indonesian indie rock'],Sambutlah,album,2023-12-22,Ode Para Sisifus,34,161165,0.867,0.38,167.943,0.0668,-6.718,0.0441,0.189,0.6
+7,The Jeblogs,['indonesian indie rock'],Sambutlah,album,2023-12-22,Track 8,42,528238,0.834,0.471,130.007,0.319,-5.452,0.0412,0.082,0.156
+8,The Jeblogs,['indonesian indie rock'],Bersandarlah,single,2023-10-20,Bersandarlah,31,260000,0.835,0.412,142.96,0.166,-6.537,0.0404,0.639,0.29
+9,The Jeblogs,['indonesian indie rock'],Atas Nama,single,2022-03-25,Atas Nama,41,238345,0.663,0.425,144.951,3.25e-06,-9.278,0.0273,0.42,0.469
+10,The Jeblogs,['indonesian indie rock'],Bonjour,single,2020-12-25,Bonjour,30,260354,0.699,0.486,122.015,0.439,-11.31,0.0311,0.132,0.629
+11,The Kick,['yogyakarta indie'],Rangsang,album,2023-07-04,Rangsang,23,217588,0.433,0.651,136.073,0.806,-10.309,0.0391,0.0997,0.148
+12,The Kick,['yogyakarta indie'],Rangsang,album,2023-07-04,Elegi Tembok Tinggi,22,216496,0.958,0.326,164.881,0.165,-8.279,0.104,0.103,0.251
+13,The Kick,['yogyakarta indie'],Rangsang,album,2023-07-04,Karbitan,25,90811,0.978,0.205,184.37,0.0236,-7.497,0.495,0.347,0.262
+14,The Kick,['yogyakarta indie'],Rangsang,album,2023-07-04,Raya,38,260156,0.882,0.513,127.941,0.117,-9.242,0.055,0.136,0.445
+15,The Kick,['yogyakarta indie'],Rangsang,album,2023-07-04,Orgasme Dengan Sepeda,32,148400,0.954,0.428,75.006,0.0256,-7.696,0.206,0.147,0.464
+16,The Kick,['yogyakarta indie'],Rangsang,album,2023-07-04,Pentas Oposisi,26,183333,0.93,0.372,179.797,0.0726,-7.999,0.139,0.351,0.711
+17,The Kick,['yogyakarta indie'],Rangsang,album,2023-07-04,Mati Saat Melukis,25,263036,0.515,0.677,118.474,2.38e-06,-7.812,0.0327,0.123,0.242
+18,The Kick,['yogyakarta indie'],Rangsang,album,2023-07-04,Badai Di Selatan,24,322778,0.82,0.516,127.956,0.282,-9.179,0.103,0.118,0.51
+19,The Kick,['yogyakarta indie'],Suburban Terror,album,2021-07-30,Suburban Terror,20,196000,0.943,0.365,119.881,0.648,-2.116,0.0729,0.392,0.406
+20,The Kick,['yogyakarta indie'],Suburban Terror,album,2021-07-30,Tak Jelas,34,148691,0.93,0.34,184.022,0.0288,-5.687,0.0572,0.121,0.728
+21,The Kick,['yogyakarta indie'],Suburban Terror,album,2021-07-30,UFO,31,212559,0.943,0.47,148.009,0.000349,-6.951,0.0511,0.266,0.364
+22,The Kick,['yogyakarta indie'],Suburban Terror,album,2021-07-30,Liar,22,137103,0.963,0.328,181.982,5.65e-06,-4.912,0.297,0.114,0.549
+23,The Kick,['yogyakarta indie'],Suburban Terror,album,2021-07-30,Preman Pinggiran,20,126182,0.956,0.409,147.891,0.000788,-3.931,0.0763,0.0512,0.621
+24,The Kick,['yogyakarta indie'],Suburban Terror,album,2021-07-30,Mengudara,23,210464,0.96,0.397,158.001,0.363,-5.596,0.0432,0.301,0.685
+25,The Kick,['yogyakarta indie'],Suburban Terror,album,2021-07-30,Terbakar Di Lampu Merah,30,241157,0.942,0.486,120.011,0.185,-6.588,0.0448,0.125,0.354
+26,The Kick,['yogyakarta indie'],Renaisan,single,2024-07-26,Kendala Takdir,29,308550,0.775,0.502,134.975,0.371,-9.425,0.0264,0.528,0.809
+27,The Kick,['yogyakarta indie'],Renaisan,single,2024-07-26,Terlahir Hari Ini,25,308940,0.85,0.416,155.143,0.0314,-9.166,0.0289,0.0947,0.899
+28,The Kick,['yogyakarta indie'],UFO,single,2021-01-15,UFO,19,213264,0.872,0.381,148.008,0.00173,-6.107,0.042,0.273,0.36
+29,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Seketika Sekarang Juga,album,2024-09-18,Teleportasi,30,139412,0.984,0.35,170.167,0.0349,-6.86,0.0888,0.289,0.127
+30,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Seketika Sekarang Juga,album,2024-09-18,Disini Saja (Jangan Kemana Mana),38,255000,0.854,0.445,132.016,1.28e-05,-6.453,0.045,0.0803,0.351
+31,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Seketika Sekarang Juga,album,2024-09-18,Absurd Tales,26,191147,0.987,0.311,161.887,0.000322,-5.775,0.103,0.0669,0.0665
+32,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Seketika Sekarang Juga,album,2024-09-18,Ngeri Yang Ku Damba,28,213659,0.93,0.48,122.983,0.00109,-6.679,0.0932,0.334,0.255
+33,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Seketika Sekarang Juga,album,2024-09-18,Berpaling Dari Cerita Yang Kemarin,30,261803,0.873,0.418,134.889,2.34e-05,-6.031,0.0441,0.0967,0.357
+34,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Seketika Sekarang Juga,album,2024-09-18,Lampaui R P M,27,173600,0.893,0.23,75.184,0.00275,-6.332,0.0833,0.0683,0.425
+35,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Seketika Sekarang Juga,album,2024-09-18,Tragedi Nyata,26,195931,0.972,0.494,144.989,0.0271,-5.71,0.0458,0.0858,0.374
+36,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Seketika Sekarang Juga,album,2024-09-18,Roman Rafah 2024,25,228246,0.946,0.507,134.035,0.00204,-5.765,0.0487,0.113,0.23
+37,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Seketika Sekarang Juga,album,2024-09-18,Megah Diterima (Acoustic Version),27,261120,0.654,0.623,134.938,1.35e-05,-7.706,0.0282,0.0942,0.456
+38,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Seketika Sekarang Juga,album,2024-09-18,Ma Shouganai,25,140118,0.978,0.288,169.938,0.00137,-7.14,0.0965,0.0468,0.118
+39,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Apapun Dilibas,album,2019-02-06,Apapun Dilibas,21,52992,0.926,0.149,159.366,0.215,-7.282,0.172,0.161,0.547
+40,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Apapun Dilibas,album,2019-02-06,Kubikal Rock,11,71381,0.929,0.28,151.878,0.000131,-7.923,0.111,0.189,0.251
+41,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Apapun Dilibas,album,2019-02-06,Kebiri Paedophilia,17,39424,0.957,0.147,159.525,5.3e-05,-8.03,0.16,0.285,0.427
+42,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Apapun Dilibas,album,2019-02-06,Tak Punya Ketakutan,19,91657,0.747,0.232,161.423,0.0642,-8.681,0.0909,0.112,0.414
+43,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Apapun Dilibas,album,2019-02-06,Death Kitchen,16,90667,0.83,0.192,167.381,6.54e-06,-8.653,0.119,0.489,0.446
+44,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Apapun Dilibas,album,2019-02-06,Jam 3 Pagi Di Bundaran,10,83072,0.91,0.274,92.607,1.07e-05,-7.079,0.0652,0.544,0.25
+45,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Apapun Dilibas,album,2019-02-06,Metode Organik Rasakan Fase Embrionik Manusia (New Version),0,19925,0.846,0.371,158.778,0.762,-10.391,0.12,0.0495,0.631
+46,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Apapun Dilibas,album,2019-02-06,Who Stole My Bike,16,100575,0.842,0.217,152.638,0.0,-7.292,0.0902,0.493,0.666
+47,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Apapun Dilibas,album,2019-02-06,Jalan Darat (Anti Boring),18,131413,0.919,0.374,117.619,0.000989,-7.617,0.068,0.0674,0.667
+48,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Dramaturgi Underground,album,2016-11-09,Anabastestudineus,24,192354,0.931,0.495,160.01,0.437,-6.942,0.0451,0.0557,0.69
+49,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Dramaturgi Underground,album,2016-11-09,Roman Underground,42,210141,0.965,0.398,139.948,0.367,-5.325,0.0674,0.18,0.354
+50,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Dramaturgi Underground,album,2016-11-09,Memento,15,214877,0.99,0.277,165.141,0.862,-5.263,0.11,0.109,0.0922
+51,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Dramaturgi Underground,album,2016-11-09,Kuning,52,273810,0.861,0.297,145.089,0.895,-6.033,0.0521,0.482,0.263
+52,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Dramaturgi Underground,album,2016-11-09,Jungkir Balik,40,225048,0.991,0.349,166.962,0.15,-6.399,0.0778,0.0602,0.53
+53,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Dramaturgi Underground,album,2016-11-09,Audisi Sebuah Opera,24,225141,0.856,0.526,110.046,0.0148,-5.643,0.0285,0.147,0.922
+54,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Dramaturgi Underground,album,2016-11-09,Tersesat Di Antariksa,36,249800,0.956,0.347,165.979,0.884,-6.299,0.0709,0.663,0.338
+55,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","Hey, Makan Tuh Gitar!",album,2013-10-02,180 Derajat,10,247850,0.99,0.473,152.037,4.98e-05,-4.708,0.141,0.344,0.339
+56,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","Hey, Makan Tuh Gitar!",album,2013-10-02,Hey Tuan Botimen,21,205729,0.945,0.554,128.132,2.04e-05,-4.31,0.0626,0.399,0.599
+57,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","Hey, Makan Tuh Gitar!",album,2013-10-02,Senjakala Cerita,22,365111,0.893,0.327,183.845,0.0102,-5.289,0.0605,0.0849,0.228
+58,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","Hey, Makan Tuh Gitar!",album,2013-10-02,Legenda Berbalut Ngeri,16,163329,0.89,0.588,105.093,0.00435,-6.232,0.0557,0.17,0.339
+59,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","Hey, Makan Tuh Gitar!",album,2013-10-02,Era Gelap Sirna,16,182230,0.892,0.348,108.03,0.887,-6.608,0.0646,0.459,0.0793
+60,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","Hey, Makan Tuh Gitar!",album,2013-10-02,Hujan Kunjungi Kami,16,263500,0.957,0.49,134.057,0.000117,-5.105,0.0646,0.122,0.31
+61,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","Hey, Makan Tuh Gitar!",album,2013-10-02,Bocah Cadel Lampu Merah,12,333021,0.671,0.636,110.133,2.05e-06,-7.543,0.0271,0.563,0.258
+62,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","Hey, Makan Tuh Gitar!",album,2013-10-02,Berlagak Gila,10,276271,0.946,0.323,144.865,0.0,-4.379,0.103,0.341,0.368
+63,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","Hey, Makan Tuh Gitar!",album,2013-10-02,Seka Ingusmu,19,159568,0.968,0.223,182.569,1.12e-05,-5.696,0.313,0.157,0.193
+64,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","Hey, Makan Tuh Gitar!",album,2013-10-02,Cerdas Dan Taktis,21,324986,0.929,0.605,117.929,0.000147,-5.255,0.0341,0.345,0.46
+65,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","Hey, Makan Tuh Gitar!",album,2013-10-02,Jalan Darat (Anti Boring),9,142338,0.934,0.616,110.084,0.0,-4.543,0.0667,0.281,0.629
+66,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Indonesia,album,2011-05-05,Gadis Suku Pedalaman,24,233825,0.939,0.384,140.041,1.26e-05,-3.235,0.0537,0.118,0.346
+67,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Indonesia,album,2011-05-05,Who Stole My Bike,7,116239,0.96,0.553,143.952,0.0,-2.602,0.0551,0.0825,0.913
+68,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Indonesia,album,2011-05-05,Tidur Dimanapun Bermimpi Kapanpun,44,251240,0.849,0.496,126.002,0.0,-4.042,0.0367,0.146,0.552
+69,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Indonesia,album,2011-05-05,Wahana Jalan Tikus,21,245063,0.468,0.152,97.503,7.26e-06,-4.835,0.033,0.132,0.316
+70,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Indonesia,album,2011-05-05,Pilih Sidang Atau Berdamai,22,194212,0.956,0.486,125.036,0.0,-3.99,0.0526,0.0719,0.588
+71,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Indonesia,album,2011-05-05,Death Kitchen,6,193701,0.975,0.469,119.974,0.0,-3.391,0.0515,0.333,0.376
+72,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Indonesia,album,2011-05-05,Tidur Dimanapun Bermimpi Kapanpun (Akustik),10,243066,0.498,0.613,126.106,0.0,-6.339,0.0261,0.251,0.267
+73,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Roman Rafah 2024,single,2024-06-20,Roman Rafah 2024,22,224000,0.912,0.473,134.037,3.88e-06,-7.438,0.0417,0.0941,0.292
+74,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Roman Rafah 2024,single,2024-06-20,Planet Berbeda (Acoustic Version),13,238000,0.769,0.546,144.904,0.0,-5.585,0.0283,0.16,0.546
+75,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Teleportasi,single,2023-09-13,Teleportasi,28,137000,0.963,0.371,170.057,0.00504,-10.216,0.0812,0.326,0.294
+76,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Megah Diterima,single,2022-09-01,Megah Diterima,46,243596,0.867,0.373,145.019,0.0233,-10.334,0.0448,0.374,0.486
+77,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Megah Diterima,single,2022-09-01,Plus Tambah,28,221121,0.666,0.349,144.968,0.000228,-11.461,0.0432,0.228,0.22
+78,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Binar Wajah Sebaya,single,2020-04-27,Binar Wajah Sebaya,45,274529,0.922,0.477,130.021,0.000154,-6.752,0.0396,0.0917,0.42
+79,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Binar Wajah Sebaya,single,2020-04-27,Tiba Tiba Terjadi,29,246208,0.875,0.515,124.983,0.000317,-6.704,0.0391,0.297,0.247
+80,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Binar Wajah Sebaya,single,2020-04-27,Bocah Cadel Lampu Merah,32,303937,0.887,0.537,130.01,0.00223,-7.169,0.0276,0.119,0.407
+81,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Binar Wajah Sebaya,single,2020-04-27,Planet Berbeda,29,261759,0.915,0.432,134.97,0.0105,-6.341,0.0445,0.209,0.519
+82,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Binar Wajah Sebaya,single,2020-04-27,Senjakala Cerita,38,338077,0.904,0.438,91.991,0.0658,-6.922,0.0337,0.435,0.24
+83,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Spring Greetings,single,2014-08-09,Inwardly,12,375275,0.819,0.746,127.994,0.0551,-8.945,0.192,0.162,0.0577
+84,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Spring Greetings,single,2014-08-09,Kanikul,12,360046,0.606,0.592,127.987,0.841,-9.252,0.0425,0.442,0.136
+85,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",SneakerFuzz,single,2014-08-05,Kubikal Rock,24,62973,0.96,0.472,154.963,0.00135,-3.796,0.129,0.059,0.513
+86,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",SneakerFuzz,single,2014-08-05,Planet Berbeda,15,258810,0.903,0.373,145.006,0.248,-4.588,0.0581,0.269,0.386
+87,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",SneakerFuzz,single,2014-08-05,Tak Punya Ketakutan,10,78716,0.942,0.386,170.224,0.402,-3.714,0.0919,0.339,0.688
+88,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",SneakerFuzz,single,2014-08-05,Tiba Tiba Terjadi,34,266054,0.908,0.489,124.979,0.000689,-4.731,0.038,0.231,0.491
+89,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",SneakerFuzz,single,2014-08-05,Jam 3 Pagi Di Bundaran,21,86518,0.986,0.21,173.986,0.0238,-3.102,0.0964,0.0466,0.0797
+90,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",SneakerFuzz,single,2014-08-05,Rayakan Pemenang,51,247618,0.863,0.38,110.058,0.0,-3.627,0.0462,0.142,0.439
+91,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Vacation,single,2014-06-02,A Broken Rhythm,12,352836,0.851,0.721,128.033,0.893,-12.284,0.0464,0.139,0.0582
+92,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Vacation,single,2014-06-02,Machinery Rhythm,12,342387,0.532,0.774,129.02,0.939,-15.408,0.131,0.093,0.131
+93,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",System Error,single,2014-05-30,Illusory Control,13,366940,0.472,0.77,128.004,0.707,-13.855,0.184,0.185,0.161
+94,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",System Error,single,2014-05-30,System Error,12,447692,0.758,0.741,129.985,0.628,-11.737,0.233,0.323,0.168
+95,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",The Wknd Sessions Ep. 70: Morfem,single,2013-11-08,Berlagak Gila,16,274271,0.92,0.304,157.5,0.27,-8.424,0.078,0.221,0.434
+96,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",The Wknd Sessions Ep. 70: Morfem,single,2013-11-08,180 Derajat,15,270162,0.89,0.265,157.536,0.0,-9.72,0.0568,0.102,0.487
+97,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",The Wknd Sessions Ep. 70: Morfem,single,2013-11-08,Senjakala Cerita,14,336856,0.724,0.279,195.932,0.000381,-11.333,0.035,0.0917,0.551
+98,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,De Ritmo,0,433668,0.879,0.804,126.005,0.878,-4.874,0.041,0.1,0.405
+99,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Zylvo,0,505417,0.673,0.809,126.996,0.93,-9.202,0.0659,0.0765,0.147
+100,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,My Little Baby,0,380585,0.498,0.811,125.981,0.891,-9.691,0.169,0.0952,0.324
+101,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Cooff,0,535142,0.692,0.8,127.036,0.873,-10.293,0.068,0.0592,0.325
+102,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Arena Blanca,0,396191,0.705,0.872,126.003,0.417,-5.992,0.0594,0.463,0.333
+103,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Thats's Right,0,497000,0.754,0.796,127.981,0.78,-13.44,0.0622,0.0699,0.165
+104,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Vice City,0,540015,0.572,0.959,127.997,0.00706,-6.593,0.317,0.0681,0.0895
+105,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Tell Me,0,411875,0.666,0.801,128.011,0.914,-9.331,0.0749,0.081,0.0374
+106,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Minimal Perfect Solution,0,472500,0.686,0.711,128.004,0.871,-9.206,0.0508,0.0835,0.166
+107,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,I Want the Time,0,542946,0.639,0.673,247.961,0.933,-9.348,0.216,0.104,0.197
+108,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,The Woman of the Voice,0,362425,0.554,0.778,128.008,0.841,-12.483,0.126,0.218,0.227
+109,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Chemtrail Nº1,0,388000,0.861,0.791,131.999,0.905,-9.053,0.0857,0.133,0.395
+110,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Saxo Paradise,0,392000,0.681,0.784,126.977,0.909,-11.023,0.0525,0.0857,0.324
+111,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Botanic,0,476250,0.589,0.8,128.006,0.469,-15.6,0.0944,0.184,0.312
+112,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Lounge,0,379180,0.722,0.808,126.021,0.928,-9.467,0.118,0.0378,0.719
+113,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Three Open Minds,0,396919,0.954,0.804,127.009,0.863,-9.26,0.0603,0.0772,0.811
+114,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,El Moganero,0,396855,0.646,0.782,126.991,0.914,-13.88,0.0757,0.126,0.271
+115,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Bali,0,380957,0.898,0.727,126.024,0.899,-4.905,0.0426,0.0723,0.501
+116,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Calufa,0,427125,0.924,0.796,126.001,0.769,-5.648,0.0549,0.066,0.509
+117,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,La Z Ebra,0,398000,0.927,0.829,125.998,0.89,-4.41,0.116,0.043,0.775
+118,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Tu Frialdad - Toni G Remix,0,390005,0.735,0.796,128.009,0.745,-8.499,0.0587,0.111,0.374
+119,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,After the Blablabla,0,357120,0.685,0.889,125.029,0.434,-7.602,0.0875,0.0461,0.685
+120,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Despierta - Profe Remix,0,370560,0.98,0.839,125.029,0.847,-7.02,0.0726,0.0572,0.758
+121,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Agarrate a Mi Cintura - Ismael Casimiro Remix,0,359063,0.534,0.801,127.981,0.901,-11.185,0.0665,0.254,0.326
+122,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Percussive Groove - Ismael Casimiro Remix,0,313125,0.492,0.821,125.989,0.781,-11.837,0.0846,0.056,0.646
+123,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Numbai,0,410625,0.882,0.84,127.027,0.846,-4.681,0.0513,0.061,0.339
+124,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Al Capone,0,444500,0.851,0.769,125.984,0.251,-7.221,0.0707,0.0424,0.391
+125,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Wannabe,0,370886,0.611,0.805,127.003,0.804,-11.277,0.095,0.053,0.268
+126,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,On Me On,0,365714,0.6,0.845,126.014,0.82,-7.879,0.0721,0.625,0.534
+127,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Cucurrucucu,0,342857,0.511,0.797,129.678,0.828,-7.406,0.0905,0.0805,0.43
+128,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Korotaa,0,410625,0.893,0.772,128.0,0.897,-6.685,0.0539,0.543,0.554
+129,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,With Swing,0,461760,0.946,0.841,125.107,0.89,-5.347,0.0971,0.0399,0.754
+130,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Jump It,0,367619,0.948,0.771,126.047,0.703,-7.564,0.125,0.0439,0.784
+131,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Big Tomy,0,441905,0.513,0.809,126.009,0.848,-10.293,0.0905,0.0588,0.431
+132,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Difficult,0,266919,0.796,0.823,127.989,0.862,-6.467,0.065,0.888,0.577
+133,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Lights,0,388571,0.721,0.805,126.011,0.913,-9.023,0.0548,0.0629,0.216
+134,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,African Black,0,518095,0.916,0.808,126.006,0.699,-8.331,0.0651,0.0541,0.502
+135,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Que Ritmo,0,414874,0.936,0.702,125.009,0.842,-6.07,0.0573,0.359,0.262
+136,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Dancing Cow,0,430340,0.875,0.843,128.006,0.713,-9.657,0.156,0.173,0.609
+137,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Sativation,0,449524,0.804,0.801,126.008,0.821,-9.979,0.0626,0.535,0.473
+138,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Alejandria,0,321643,0.491,0.781,121.022,0.921,-16.385,0.0573,0.0921,0.553
+139,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,La Esencia,0,457143,0.636,0.796,125.991,0.886,-10.965,0.0992,0.119,0.499
+140,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Kabila,0,570968,0.904,0.847,124.015,0.633,-6.421,0.0581,0.275,0.871
+141,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,El Arrecife,0,338571,0.893,0.852,125.003,0.752,-7.375,0.13,0.0665,0.714
+142,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Sweet Smoke,0,460800,0.786,0.812,125.016,0.873,-6.982,0.0629,0.0544,0.357
+143,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Addictive Flower - Albert Alonso Remix,0,405714,0.635,0.823,126.014,0.882,-9.339,0.132,0.077,0.576
+144,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Ole - Dani Ferna Remix,0,403810,0.866,0.811,126.002,0.869,-6.559,0.052,0.198,0.572
+145,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,Get Down,0,372202,0.666,0.756,124.003,0.771,-10.132,0.0528,0.0501,0.513
+146,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,El Gaitero - Eros Molina Remix,0,422400,0.992,0.707,125.005,0.554,-8.299,0.0509,0.107,0.6
+147,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']",Four Years Recordings,compilation,2014-10-10,La Galleta - Ian Force Pornoman Remix,0,402681,0.718,0.758,124.002,0.165,-12.293,0.0589,0.0323,0.743
+148,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Detox,0,429166,0.847,0.846,127.993,0.917,-8.002,0.18,0.283,0.0399
+149,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Charge,0,409156,0.967,0.644,131.964,0.874,-7.539,0.0694,0.258,0.0427
+150,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Cosmic Leap,0,491128,0.469,0.851,129.993,0.851,-10.678,0.306,0.259,0.0389
+151,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Gigatron,0,404271,0.965,0.722,132.986,0.838,-7.702,0.0818,0.112,0.411
+152,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Devil's Wish - Fresh Otis Remix,0,472477,0.834,0.762,127.996,0.918,-4.896,0.0556,0.665,0.322
+153,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Impact,0,450273,0.744,0.776,129.002,0.904,-12.684,0.157,0.134,0.0266
+154,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Spring,0,419109,0.689,0.823,126.008,0.899,-7.783,0.14,0.414,0.3
+155,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Town of Shadows,0,406204,0.597,0.856,130.056,0.926,-13.548,0.136,0.123,0.0549
+156,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Evil Intent,0,488516,0.671,0.507,127.981,0.738,-10.409,0.0304,0.282,0.147
+157,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Heavy Blow,0,467409,0.892,0.684,127.99,0.924,-6.307,0.0604,0.392,0.607
+158,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Techorse,0,312242,0.761,0.802,127.967,0.898,-7.218,0.0505,0.115,0.186
+159,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Amazing Track,0,408790,0.465,0.705,127.981,0.947,-17.13,0.0527,0.111,0.154
+160,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Bullfrog,0,458162,0.868,0.722,127.999,0.947,-10.06,0.0406,0.113,0.032
+161,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Alpha,0,425796,0.681,0.818,128.01,0.324,-10.908,0.314,0.102,0.313
+162,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Suffocation,0,532010,0.871,0.453,122.99,0.812,-6.569,0.0386,0.118,0.23
+163,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Bad Morning,0,488803,0.86,0.649,124.007,0.785,-10.213,0.0543,0.296,0.384
+164,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Inwardly,0,375275,0.819,0.746,127.994,0.0551,-8.945,0.192,0.162,0.0577
+165,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Plague,0,428434,0.923,0.681,130.007,0.891,-6.697,0.0668,0.279,0.141
+166,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Skuba Luba,0,405629,0.918,0.569,130.005,0.906,-7.101,0.0409,0.135,0.125
+167,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Fuckin' Trippy,0,360934,0.748,0.705,133.975,0.853,-6.152,0.0582,0.083,0.256
+168,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Trip to Bratislava - Amir Razanica Remix,0,389172,0.888,0.541,123.99,0.962,-10.026,0.0352,0.121,0.0347
+169,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Rollin Tekno,0,431229,0.816,0.892,127.999,0.737,-7.265,0.215,0.0609,0.316
+170,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Fanatek - Dolby D Remix,0,486975,0.722,0.438,129.978,0.916,-8.48,0.0349,0.0962,0.0767
+171,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Interference,0,459520,0.657,0.699,130.01,0.865,-8.947,0.0334,0.27,0.048
+172,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Different,0,413597,0.597,0.717,130.007,0.4,-9.373,0.0666,0.107,0.0775
+173,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Masterpiece,0,409182,0.893,0.777,127.006,0.908,-7.537,0.0575,0.0757,0.726
+174,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Be a Man - Mozzy Remix,0,259918,0.718,0.693,129.989,0.926,-7.476,0.0848,0.0954,0.206
+175,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Wild Cat - Stevie Rose Remix,0,518818,0.873,0.536,129.989,0.926,-7.092,0.0355,0.142,0.0953
+176,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Voodoo,0,365740,0.651,0.799,128.008,0.931,-8.831,0.0522,0.0605,0.421
+177,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Black,0,383974,0.847,0.781,138.03,0.943,-13.073,0.0866,0.107,0.234
+178,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Dark Satellite,0,356571,0.528,0.564,131.988,0.904,-9.869,0.0682,0.549,0.148
+179,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,3rd Bardo,0,391602,0.731,0.651,126.995,0.825,-8.9,0.071,0.356,0.453
+180,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Separation,0,522318,0.528,0.873,124.999,0.938,-8.627,0.105,0.0294,0.332
+181,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Fetish,0,428434,0.526,0.799,126.007,0.916,-12.895,0.0543,0.0942,0.107
+182,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Zoombeat,0,419187,0.906,0.612,129.99,0.828,-5.865,0.147,0.575,0.258
+183,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Neutral - The Jocker Remix,0,355709,0.866,0.608,134.985,0.84,-10.185,0.0453,0.354,0.481
+184,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Classified Guest Room - Lasawers Remix,0,388702,0.93,0.605,126.011,0.868,-6.462,0.038,0.625,0.457
+185,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,After Effects,0,350041,0.713,0.657,128.034,0.792,-7.376,0.0315,0.0947,0.22
+186,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Elda - Dave Van Guten Remix,0,379899,0.508,0.762,126.994,0.833,-15.347,0.0873,0.125,0.27
+187,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Trip to Bratislava - Francesco Bove Remix,0,435200,0.872,0.828,128.01,0.769,-5.883,0.0598,0.122,0.327
+188,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Glockenturm,0,378802,0.327,0.812,127.983,0.846,-9.178,0.0759,0.111,0.0344
+189,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Loudness,0,400065,0.925,0.656,125.999,0.797,-5.136,0.0422,0.31,0.337
+190,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Not War - Enrico Fuerte Remix,0,413597,0.743,0.729,129.988,0.843,-11.692,0.0814,0.111,0.0764
+191,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,The Dark Way,0,428042,0.793,0.812,130.037,0.865,-7.615,0.0989,0.365,0.0765
+192,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Tragik,0,311014,0.537,0.619,130.025,0.4,-8.247,0.248,0.119,0.271
+193,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Flat Noise,0,430916,0.766,0.602,126.997,0.834,-5.395,0.0335,0.0862,0.127
+194,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Sclave,0,413597,0.904,0.703,129.997,0.904,-6.496,0.0449,0.0969,0.059
+195,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Underground City,0,373394,0.946,0.735,126.026,0.918,-9.978,0.0463,0.159,0.62
+196,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Global Industry,0,480993,0.954,0.666,127.994,0.022,-7.21,0.11,0.698,0.0385
+197,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 9 (Releases 400 / 449)",compilation,2015-09-05,Deep Space,0,403696,0.797,0.8,127.011,0.871,-10.995,0.0785,0.646,0.125
+198,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Fragile - AudioDistraction Remix,0,442540,0.74,0.781,128.002,0.854,-7.059,0.182,0.127,0.437
+199,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Darklover,0,502047,0.614,0.825,125.009,0.922,-11.347,0.0701,0.127,0.146
+200,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Nervos,0,368692,0.602,0.663,125.01,0.884,-13.145,0.0593,0.124,0.0385
+201,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Nothing but Promises,0,393561,0.928,0.777,128.008,0.84,-9.99,0.0796,0.11,0.155
+202,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,No Support,0,384758,0.917,0.748,130.002,0.923,-8.45,0.0582,0.103,0.0388
+203,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Cheezy,0,600059,0.52,0.612,128.013,0.872,-16.71,0.0443,0.336,0.0827
+204,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Invader,0,475899,0.475,0.849,130.019,0.924,-19.114,0.0793,0.111,0.304
+205,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Fanatek,0,330632,0.916,0.708,131.979,0.883,-3.993,0.0589,0.0616,0.294
+206,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Middle Finger - Dennis Slim Remix,0,465162,0.79,0.603,129.002,0.222,-9.384,0.0743,0.517,0.125
+207,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,FModu - Ced.Rec Remix,0,476212,0.59,0.662,124.993,0.914,-10.561,0.0468,0.111,0.202
+208,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Chroma Key,0,485042,0.43,0.79,128.02,0.923,-13.502,0.193,0.0973,0.0353
+209,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Octopus,0,368692,0.898,0.666,124.991,0.925,-6.375,0.0568,0.106,0.0394
+210,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,I Love Techno,0,396460,0.745,0.75,135.0,0.862,-10.056,0.062,0.124,0.269
+211,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Vertigo,0,527856,0.545,0.67,125.008,0.931,-12.347,0.0778,0.147,0.378
+212,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,A Broken Rhythm,0,352836,0.851,0.721,128.033,0.893,-12.284,0.0464,0.139,0.0582
+213,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Hipnosis Consumista,0,454008,0.776,0.757,129.021,0.808,-7.346,0.0741,0.106,0.508
+214,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Ghost Drum,0,457561,0.63,0.692,127.99,0.839,-12.294,0.14,0.105,0.149
+215,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Fragile - DJ Ogi Remix,0,409652,0.96,0.591,132.998,0.896,-6.118,0.04,0.325,0.163
+216,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Fennokraft - Radiant Future Remix,0,443037,0.799,0.624,135.013,0.592,-8.829,0.183,0.0758,0.0722
+217,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 19",compilation,2014-08-18,Gladiators,0,538723,0.979,0.546,134.979,0.844,-7.655,0.0316,0.385,0.114
+218,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Muahah - Dennis Slim Remix,0,476238,0.848,0.713,126.01,0.864,-7.294,0.0799,0.102,0.0842
+219,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Mentally Ill,0,448235,0.675,0.932,128.012,0.59,-8.415,0.0638,0.0557,0.307
+220,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Elements of Life,0,480052,0.67,0.774,128.009,0.882,-10.643,0.0714,0.235,0.0366
+221,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Geryo,0,435409,0.658,0.665,128.001,0.897,-18.677,0.051,0.111,0.0475
+222,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Comsec,0,313757,0.607,0.745,127.008,0.883,-6.277,0.0487,0.108,0.115
+223,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Tear5,0,489848,0.605,0.593,130.011,0.93,-15.951,0.071,0.111,0.144
+224,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,All About,0,393848,0.661,0.827,128.004,0.855,-5.436,0.0622,0.0994,0.163
+225,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Amboss,0,442044,0.564,0.654,136.032,0.911,-9.185,0.0404,0.11,0.164
+226,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Celebro,0,390087,0.935,0.695,129.999,0.856,-7.818,0.0402,0.34,0.0266
+227,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Hell of a Party,0,433189,0.893,0.672,127.988,0.851,-8.652,0.0732,0.315,0.575
+228,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Fragile - AudioDistraction Remix,0,442540,0.74,0.781,128.002,0.854,-7.059,0.182,0.127,0.437
+229,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Darklover,0,502047,0.614,0.825,125.009,0.922,-11.347,0.0701,0.127,0.146
+230,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Nervos,0,368692,0.602,0.663,125.01,0.884,-13.145,0.0593,0.124,0.0385
+231,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Nothing but Promises,0,393561,0.928,0.777,128.008,0.84,-9.99,0.0796,0.11,0.155
+232,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,No Support,0,384758,0.917,0.748,130.002,0.923,-8.45,0.0582,0.103,0.0388
+233,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Cheezy,0,600059,0.52,0.612,128.013,0.872,-16.71,0.0443,0.336,0.0827
+234,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Invader,0,475899,0.475,0.849,130.019,0.924,-19.114,0.0793,0.111,0.304
+235,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Fanatek,0,330632,0.916,0.708,131.979,0.883,-3.993,0.0589,0.0616,0.294
+236,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Middle Finger - Dennis Slim Remix,0,465162,0.79,0.603,129.002,0.222,-9.384,0.0743,0.517,0.125
+237,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,FModu - Ced.Rec Remix,0,476212,0.59,0.662,124.993,0.914,-10.561,0.0468,0.111,0.202
+238,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Chroma Key,0,485042,0.43,0.79,128.02,0.923,-13.502,0.193,0.0973,0.0353
+239,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Octopus,0,368692,0.898,0.666,124.991,0.925,-6.375,0.0568,0.106,0.0394
+240,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,I Love Techno,0,396460,0.745,0.75,135.0,0.862,-10.056,0.062,0.124,0.269
+241,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Vertigo,0,527856,0.545,0.67,125.008,0.931,-12.347,0.0778,0.147,0.378
+242,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,A Broken Rhythm,0,352836,0.851,0.721,128.033,0.893,-12.284,0.0464,0.139,0.0582
+243,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Hipnosis Consumista,0,454008,0.776,0.757,129.021,0.808,-7.346,0.0741,0.106,0.508
+244,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Ghost Drum,0,457561,0.63,0.692,127.99,0.839,-12.294,0.14,0.105,0.149
+245,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Fragile - DJ Ogi Remix,0,409652,0.96,0.591,132.998,0.896,-6.118,0.04,0.325,0.163
+246,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Fennokraft - Radiant Future Remix,0,443037,0.799,0.624,135.013,0.592,-8.829,0.183,0.0758,0.0722
+247,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Gladiators,0,538723,0.979,0.546,134.979,0.844,-7.655,0.0316,0.385,0.114
+248,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,The Taste of Nothing,0,359602,0.598,0.737,129.985,0.922,-13.178,0.0639,0.112,0.0391
+249,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Surrender,0,419579,0.993,0.56,127.005,0.845,-8.362,0.0781,0.263,0.0758
+250,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,The Right Place,0,409051,0.785,0.784,130.002,0.949,-12.202,0.0702,0.111,0.498
+251,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Slowly Destructive,0,412317,0.83,0.79,124.012,0.932,-8.295,0.153,0.317,0.172
+252,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Lovebeams - Smokybeats Remix,0,346828,0.714,0.753,126.997,0.835,-11.182,0.0554,0.112,0.0397
+253,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Wide Noizes,0,401319,0.706,0.645,128.027,0.948,-9.563,0.0416,0.127,0.139
+254,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Haphazard,0,323683,0.594,0.727,132.0,0.942,-13.4,0.0486,0.324,0.174
+255,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Caderudo,0,486426,0.746,0.773,132.003,0.955,-7.904,0.0333,0.11,0.307
+256,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Underworld,0,410436,0.719,0.72,131.002,0.902,-12.462,0.0543,0.0923,0.153
+257,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Destroyer,0,491572,0.671,0.665,124.982,0.812,-7.241,0.0749,0.106,0.118
+258,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Toxicon,0,442044,0.674,0.818,130.002,0.871,-7.375,0.0592,0.107,0.244
+259,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Broken,0,572944,0.807,0.712,124.013,0.119,-7.845,0.108,0.121,0.102
+260,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Run to Hell,0,472660,0.982,0.622,130.003,0.903,-8.742,0.0539,0.345,0.367
+261,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Girl in the Train,0,379193,0.967,0.632,132.007,0.933,-6.358,0.0465,0.277,0.0398
+262,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,The Spin,0,473051,0.895,0.693,136.004,0.899,-8.591,0.035,0.491,0.306
+263,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,I Want to F**K You,0,570044,0.938,0.802,128.004,0.853,-7.997,0.0584,0.165,0.0671
+264,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Coretekk,0,490867,0.886,0.496,132.996,0.894,-7.9,0.0488,0.374,0.188
+265,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Breaking Dead,0,487079,0.992,0.442,134.998,0.911,-7.496,0.0466,0.217,0.037
+266,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Yson - Franck Antenucci Remix,0,401424,0.807,0.71,135.001,0.813,-8.567,0.185,0.0826,0.172
+267,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","100% Techno Subwoofer Records, Vol. 8 (Releases 350 / 399)",compilation,2015-01-24,Hard Warrior,0,487419,0.961,0.554,139.996,0.00577,-7.325,0.0707,0.0732,0.0569
+268,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Detox,0,429166,0.847,0.846,127.993,0.917,-8.002,0.18,0.283,0.0399
+269,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Charge,0,409156,0.967,0.644,131.964,0.874,-7.539,0.0694,0.258,0.0427
+270,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Cosmic Leap,0,491128,0.469,0.851,129.993,0.851,-10.678,0.306,0.259,0.0389
+271,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Gigatron,0,404271,0.965,0.722,132.986,0.838,-7.702,0.0818,0.112,0.411
+272,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Devil's Wish - Fresh Otis Remix,0,472477,0.834,0.762,127.996,0.918,-4.896,0.0556,0.665,0.322
+273,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Impact,0,450273,0.744,0.776,129.002,0.904,-12.684,0.157,0.134,0.0266
+274,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Spring,0,419109,0.689,0.823,126.008,0.899,-7.783,0.14,0.414,0.3
+275,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Town of Shadows,0,406204,0.597,0.856,130.056,0.926,-13.548,0.136,0.123,0.0549
+276,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Evil Intent,0,488516,0.671,0.507,127.981,0.738,-10.409,0.0304,0.282,0.147
+277,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Heavy Blow,0,467409,0.892,0.684,127.99,0.924,-6.307,0.0604,0.392,0.607
+278,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Techorse,0,312242,0.761,0.802,127.967,0.898,-7.218,0.0505,0.115,0.186
+279,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Amazing Track,0,408790,0.465,0.705,127.981,0.947,-17.13,0.0527,0.111,0.154
+280,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Bullfrog,0,458162,0.868,0.722,127.999,0.947,-10.06,0.0406,0.113,0.032
+281,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Alpha,0,425796,0.681,0.818,128.01,0.324,-10.908,0.314,0.102,0.313
+282,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Suffocation,0,532010,0.871,0.453,122.99,0.812,-6.569,0.0386,0.118,0.23
+283,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Bad Morning,0,488803,0.86,0.649,124.007,0.785,-10.213,0.0543,0.296,0.384
+284,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Inwardly,0,375275,0.819,0.746,127.994,0.0551,-8.945,0.192,0.162,0.0577
+285,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Plague,0,428434,0.923,0.681,130.007,0.891,-6.697,0.0668,0.279,0.141
+286,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Skuba Luba,0,405629,0.918,0.569,130.005,0.906,-7.101,0.0409,0.135,0.125
+287,Morfem,"['indonesian indie', 'indonesian indie rock', 'indonesian rock']","I Love Subwoofer Records Techno Compilation, Vol. 21 (Greatest Hits)",compilation,2014-10-06,Fuckin' Trippy,0,360934,0.748,0.705,133.975,0.853,-6.152,0.0582,0.083,0.256
+288,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Fstvlst II,album,2020-06-15,Gas,46,213447,0.812,0.607,124.802,0.0,-5.812,0.0431,0.0909,0.683
+289,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Fstvlst II,album,2020-06-15,Rupa,35,239157,0.922,0.422,77.6,8.02e-06,-6.228,0.0926,0.187,0.178
+290,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Fstvlst II,album,2020-06-15,Vegas,37,251262,0.685,0.721,119.993,1.51e-05,-6.599,0.0369,0.305,0.274
+291,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Fstvlst II,album,2020-06-15,Mesin,30,224765,0.955,0.493,134.944,0.0,-5.587,0.0968,0.202,0.532
+292,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Fstvlst II,album,2020-06-15,Syarat,28,333748,0.609,0.608,110.014,0.00693,-7.472,0.0317,0.131,0.212
+293,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Fstvlst II,album,2020-06-15,Telan,35,236127,0.806,0.645,129.974,0.00126,-6.445,0.0437,0.194,0.459
+294,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Fstvlst II,album,2020-06-15,Hayat,37,158153,0.868,0.607,145.011,0.0,-6.436,0.0686,0.218,0.4
+295,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Fstvlst II,album,2020-06-15,Kamis,29,304500,0.4,0.386,130.029,8.92e-06,-9.763,0.0368,0.119,0.161
+296,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Fstvlst II,album,2020-06-15,Opus,44,260000,0.556,0.66,99.991,0.0,-10.164,0.0255,0.129,0.411
+297,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Hits Kitsch,album,2014-09-02,Orang Orang Di Kerumunan,48,237085,0.818,0.483,194.932,0.000305,-6.264,0.0878,0.489,0.299
+298,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Hits Kitsch,album,2014-09-02,Menantang Rasi Bintang,47,265487,0.547,0.617,119.957,6.02e-06,-7.351,0.0311,0.133,0.181
+299,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Hits Kitsch,album,2014-09-02,Hujan Mata Pisau,42,274225,0.756,0.552,135.884,2.63e-05,-4.471,0.0394,0.151,0.209
+300,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Hits Kitsch,album,2014-09-02,Akulah Ibumu,32,338761,0.547,0.246,68.26,0.0685,-7.405,0.0453,0.106,0.192
+301,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Hits Kitsch,album,2014-09-02,Hal Hal Ini Terjadi,31,439621,0.458,0.628,67.915,0.689,-10.343,0.0559,0.162,0.6
+302,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Hits Kitsch,album,2014-09-02,Tanah Indah Untuk Para Terabaikan Rusak Dan Ditinggalkan,49,301339,0.747,0.663,119.978,0.000433,-5.708,0.0313,0.272,0.17
+303,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Hits Kitsch,album,2014-09-02,Bulan Setan Atau Malaikat,39,304440,0.889,0.561,139.952,0.00526,-4.283,0.0527,0.124,0.249
+304,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Hits Kitsch,album,2014-09-02,Satu Terbela Selalu,39,206053,0.891,0.547,169.89,2.42e-05,-4.834,0.091,0.199,0.225
+305,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Hits Kitsch,album,2014-09-02,Hari Terakhir Peradaban,40,258141,0.861,0.574,96.987,5.8e-05,-4.65,0.0359,0.0966,0.186
+306,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Hits Kitsch,album,2014-09-02,Ayun Buai Zaman,35,318467,0.629,0.376,121.956,0.0,-3.386,0.0327,0.103,0.104
+307,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Sonic Panic,compilation,2023-11-04,Tua Renta,4,262210,0.399,0.424,101.77,1.07e-06,-8.902,0.0266,0.202,0.174
+308,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Sonic Panic,compilation,2023-11-04,Change It,8,187584,0.556,0.671,88.983,0.000422,-9.052,0.0401,0.193,0.681
+309,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Sonic Panic,compilation,2023-11-04,Rat Tua,31,214741,0.817,0.501,102.514,2.49e-05,-7.438,0.0514,0.107,0.476
+310,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Sonic Panic,compilation,2023-11-04,Plastic Tree,8,253000,0.411,0.578,139.891,0.000106,-9.098,0.0272,0.333,0.288
+311,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Sonic Panic,compilation,2023-11-04,LOVEARTH,3,203019,0.79,0.55,170.138,0.27,-8.94,0.0702,0.125,0.387
+312,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Sonic Panic,compilation,2023-11-04,Salah Mangsa,2,282355,0.472,0.596,135.949,0.818,-11.069,0.039,0.174,0.0731
+313,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Sonic Panic,compilation,2023-11-04,Kenapa,8,265500,0.591,0.537,165.678,0.0,-8.111,0.0585,0.387,0.566
+314,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Sonic Panic,compilation,2023-11-04,House on Fire,9,244529,0.882,0.581,90.001,0.0016,-7.219,0.0532,0.0584,0.69
+315,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Sonic Panic,compilation,2023-11-04,Polo Nyaba,6,290795,0.787,0.237,164.968,0.835,-7.474,0.124,0.346,0.471
+316,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Sonic Panic,compilation,2023-11-04,Climate Blues,2,248440,0.667,0.635,119.999,0.152,-9.282,0.0367,0.15,0.268
+317,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Sonic Panic,compilation,2023-11-04,Bambu Runcing,2,222562,0.523,0.673,145.022,0.493,-10.349,0.0463,0.104,0.183
+318,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Sonic Panic,compilation,2023-11-04,Sebelum Terlambat,3,219117,0.882,0.533,172.01,0.0646,-8.364,0.0356,0.283,0.852
+319,Fstvlst,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Sonic Panic,compilation,2023-11-04,Habisilah Kami untuk yang Terakhir Kali,3,323477,0.691,0.483,136.032,6.04e-05,-7.417,0.0506,0.0927,0.487
+320,Jenny,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Manifesto,album,2009-03-12,Matimuda,41,302147,0.943,0.332,159.909,0.685,-3.641,0.0509,0.121,0.37
+321,Jenny,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Manifesto,album,2009-03-12,Monster Karaoke,32,220987,0.896,0.315,154.954,0.000278,-3.151,0.0409,0.165,0.54
+322,Jenny,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Manifesto,album,2009-03-12,Maha Oke,29,176640,0.879,0.33,139.777,0.763,-1.738,0.0454,0.137,0.359
+323,Jenny,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Manifesto,album,2009-03-12,Manifesto Postmodernisme,33,265787,0.99,0.431,117.465,3.02e-05,-2.759,0.137,0.276,0.24
+324,Jenny,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Manifesto,album,2009-03-12,Menangisi Akhir Pekan,45,270640,0.885,0.42,150.062,0.000142,-3.405,0.0361,0.121,0.5
+325,Jenny,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Manifesto,album,2009-03-12,The Only Way,27,195467,0.87,0.269,185.139,1.29e-05,-3.155,0.0547,0.271,0.528
+326,Jenny,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Manifesto,album,2009-03-12,120,37,249960,0.979,0.421,135.068,0.000319,-2.094,0.0914,0.0443,0.299
+327,Jenny,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Manifesto,album,2009-03-12,Resistance Is Futile,26,214440,0.987,0.135,80.017,2.26e-06,-3.07,0.227,0.113,0.403
+328,Jenny,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Manifesto,album,2009-03-12,Look With Whom I'm Talking To,25,186227,0.873,0.394,77.524,1.81e-05,-4.056,0.0545,0.0632,0.553
+329,Jenny,"['indonesian indie', 'indonesian indie rock', 'yogyakarta indie']",Manifesto,album,2009-03-12,Dance Song,26,214333,0.924,0.33,163.058,8.64e-06,-4.328,0.0488,0.192,0.582
+330,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,The Modern Age - Rough Trade Version,40,192854,0.787,0.493,160.12,0.00227,-7.712,0.0334,0.253,0.88
+331,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,Last Nite - Rough Trade Version - The Modern Age B-Side,37,198549,0.745,0.399,207.923,0.0,-7.497,0.0329,0.112,0.514
+332,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,Hard To Explain,37,224411,0.686,0.407,82.495,0.837,-6.266,0.0558,0.0764,0.662
+333,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,New York City Cops (Hard to Explain B-Side),38,209505,0.842,0.52,107.958,4.49e-05,-7.664,0.0352,0.384,0.512
+334,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,Last Nite,35,193373,0.899,0.624,104.061,0.000137,-5.709,0.0296,0.0975,0.79
+335,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,When It Started (Last Nite B-Side),40,175200,0.654,0.721,131.961,0.00392,-8.107,0.0329,0.15,0.903
+336,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,Someday,35,183487,0.53,0.542,105.981,0.0,-7.468,0.0302,0.361,0.65
+337,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,"Alone, Together - Home Recording - Someday B-Side",33,197137,0.643,0.501,143.324,0.209,-7.511,0.0268,0.311,0.637
+338,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,Is This It - Home Recording - Someday B-Side,35,72664,0.388,0.348,209.063,0.0,-7.232,0.0635,0.192,0.91
+339,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,12:51,34,146841,0.863,0.452,145.008,0.796,-3.864,0.0387,0.331,0.58
+340,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,The Way It Is - Home Recording - 12:51 B-Side,32,76985,0.994,0.661,133.984,0.783,-6.081,0.127,0.0822,0.161
+341,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,Reptilia,35,215324,0.645,0.491,158.035,0.693,-5.114,0.0329,0.105,0.756
+342,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,Modern Girls & Old Fashion Men - Reptilia B-Side,46,218418,0.602,0.507,110.897,0.561,-4.222,0.029,0.0541,0.325
+343,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,The End Has No End,33,180048,0.644,0.527,136.007,0.843,-3.727,0.0355,0.32,0.573
+344,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,"Clampdown - The End Has No End B-Side / Live at Alexandra Palace, London, UK - Dec. 5, 2003",33,249481,0.417,0.267,148.304,0.593,-5.744,0.0725,0.468,0.492
+345,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,Juicebox,32,194183,0.984,0.453,155.035,0.00584,-2.376,0.125,0.0844,0.574
+346,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,Hawaii - Juicebox B-Side,45,232562,0.87,0.301,170.003,0.601,-5.942,0.047,0.272,0.175
+347,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,Heart In a Cage,32,206429,0.856,0.425,140.058,0.833,-5.135,0.0394,0.377,0.125
+348,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,"I'll Try Anything Once (""You Only Live Once"" demo) - Heart In a Cage B-Side",55,194651,0.264,0.468,119.422,0.0109,-9.958,0.0503,0.172,0.324
+349,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,You Only Live Once,34,186304,0.907,0.63,120.526,0.599,-2.42,0.0326,0.118,0.968
+350,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The Singles - Volume 01,album,2023-02-24,Mercy Mercy Me (The Ecology) - You Only Live Once B-Side,35,157920,0.875,0.449,91.956,0.145,-5.347,0.062,0.0664,0.804
+351,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The New Abnormal,album,2020-04-10,The Adults Are Talking,78,309053,0.749,0.593,164.959,0.106,-5.67,0.0475,0.314,0.649
+352,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The New Abnormal,album,2020-04-10,Selfless,67,222093,0.679,0.538,121.99,0.00175,-4.297,0.0333,0.0889,0.0888
+353,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The New Abnormal,album,2020-04-10,Brooklyn Bridge To Chorus,60,235947,0.571,0.628,119.899,9.21e-05,-3.897,0.0628,0.0833,0.467
+354,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The New Abnormal,album,2020-04-10,Bad Decisions,59,293360,0.922,0.374,153.217,0.204,-3.4,0.056,0.28,0.393
+355,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The New Abnormal,album,2020-04-10,Eternal Summer,57,375320,0.78,0.617,93.951,0.0112,-4.466,0.0376,0.0833,0.326
+356,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The New Abnormal,album,2020-04-10,At The Door,57,310373,0.323,0.456,116.903,0.00913,-6.764,0.0318,0.146,0.363
+357,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The New Abnormal,album,2020-04-10,Why Are Sundays So Depressing,63,275667,0.714,0.579,109.971,0.0269,-4.455,0.0347,0.111,0.299
+358,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The New Abnormal,album,2020-04-10,Not The Same Anymore,56,337333,0.613,0.353,177.375,0.0123,-5.9,0.031,0.103,0.282
+359,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",The New Abnormal,album,2020-04-10,Ode To The Mets,66,351787,0.617,0.426,92.002,0.181,-5.423,0.0289,0.101,0.201
+360,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Comedown Machine,album,2013-03-25,Tap Out,52,222360,0.745,0.737,115.989,0.381,-5.944,0.0351,0.306,0.629
+361,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Comedown Machine,album,2013-03-25,All The Time,45,181373,0.883,0.403,141.945,0.65,-6.054,0.0745,0.126,0.078
+362,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Comedown Machine,album,2013-03-25,One Way Trigger,55,242293,0.942,0.516,95.996,0.464,-4.113,0.036,0.116,0.964
+363,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Comedown Machine,album,2013-03-25,Welcome To Japan,58,230827,0.666,0.705,124.032,0.0149,-7.23,0.0303,0.174,0.646
+364,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Comedown Machine,album,2013-03-25,80's Comedown Machine,52,298613,0.503,0.488,144.035,0.809,-8.89,0.0326,0.101,0.38
+365,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Comedown Machine,album,2013-03-25,50/50,46,163227,0.93,0.491,99.924,0.612,-6.412,0.0347,0.219,0.623
+366,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Comedown Machine,album,2013-03-25,Slow Animals,45,260693,0.646,0.664,131.993,0.28,-7.934,0.0284,0.0954,0.5
+367,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Comedown Machine,album,2013-03-25,Partners In Crime,44,201893,0.951,0.538,106.033,0.0545,-4.741,0.0606,0.239,0.551
+368,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Comedown Machine,album,2013-03-25,Chances,53,216787,0.569,0.561,103.705,0.611,-9.682,0.0289,0.109,0.53
+369,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Comedown Machine,album,2013-03-25,Happy Ending,45,172160,0.831,0.626,113.999,0.0188,-7.743,0.0369,0.355,0.255
+370,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Comedown Machine,album,2013-03-25,"Call It Fate, Call It Karma",70,204773,0.241,0.544,109.437,0.774,-14.779,0.03,0.101,0.359
+371,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Angles,album,2011-03-21,Machu Picchu,61,209627,0.817,0.695,105.014,0.097,-5.294,0.0659,0.0601,0.874
+372,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Angles,album,2011-03-21,Under Cover of Darkness,64,235547,0.775,0.35,199.866,0.283,-3.364,0.054,0.0676,0.588
+373,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Angles,album,2011-03-21,Two Kinds of Happiness,43,222080,0.778,0.534,137.68,0.025,-5.252,0.0453,0.176,0.758
+374,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Angles,album,2011-03-21,You're So Right,41,153760,0.863,0.441,168.089,0.72,-6.787,0.0363,0.0775,0.328
+375,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Angles,album,2011-03-21,Taken for a Fool,53,203240,0.89,0.569,137.044,0.0112,-4.447,0.0559,0.226,0.885
+376,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Angles,album,2011-03-21,Games,43,231533,0.708,0.644,127.05,0.184,-6.742,0.029,0.19,0.452
+377,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Angles,album,2011-03-21,Call Me Back,49,182027,0.297,0.736,125.78,1.49e-05,-9.648,0.035,0.0609,0.185
+378,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Angles,album,2011-03-21,Gratisfaction,48,179200,0.788,0.644,135.437,0.34,-5.039,0.0558,0.237,0.708
+379,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Angles,album,2011-03-21,Metabolism,41,180680,0.85,0.422,162.004,0.00371,-5.134,0.0395,0.164,0.34
+380,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Angles,album,2011-03-21,Life Is Simple in the Moonlight,53,255240,0.696,0.515,134.893,0.000345,-5.857,0.0313,0.0916,0.513
+381,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",First Impressions Of Earth,album,2006-01-03,You Only Live Once,70,189227,0.908,0.63,120.522,0.592,-2.42,0.0326,0.116,0.968
+382,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",First Impressions Of Earth,album,2006-01-03,Juicebox,56,194573,0.981,0.462,154.995,0.00894,-2.371,0.127,0.0856,0.547
+383,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",First Impressions Of Earth,album,2006-01-03,Heart In a Cage,60,206173,0.857,0.418,140.02,0.805,-5.133,0.0404,0.368,0.12
+384,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",First Impressions Of Earth,album,2006-01-03,Razorblade,54,208133,0.859,0.394,136.075,0.233,-3.851,0.0409,0.1,0.511
+385,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",First Impressions Of Earth,album,2006-01-03,On the Other Side,49,276507,0.811,0.605,108.992,0.000116,-2.341,0.0316,0.135,0.548
+386,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",First Impressions Of Earth,album,2006-01-03,Vision of Division,45,259027,0.811,0.428,141.95,0.434,-3.681,0.0382,0.359,0.138
+387,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",First Impressions Of Earth,album,2006-01-03,Ask Me Anything,42,189973,0.31,0.376,131.566,0.841,-9.79,0.0332,0.147,0.461
+388,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",First Impressions Of Earth,album,2006-01-03,Electricityscape,44,213200,0.882,0.382,140.034,0.144,-4.166,0.0429,0.0776,0.57
+389,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",First Impressions Of Earth,album,2006-01-03,Killing Lies,40,228733,0.806,0.504,120.205,0.799,-4.955,0.0388,0.158,0.921
+390,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",First Impressions Of Earth,album,2006-01-03,Fear of Sleep,40,240467,0.923,0.436,127.731,0.823,-4.444,0.0591,0.356,0.272
+391,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",First Impressions Of Earth,album,2006-01-03,15 Minutes,39,273133,0.881,0.341,82.957,0.0383,-3.558,0.0411,0.141,0.394
+392,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",First Impressions Of Earth,album,2006-01-03,Ize of the World,47,265773,0.894,0.397,134.993,0.642,-3.099,0.0464,0.0847,0.277
+393,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",First Impressions Of Earth,album,2006-01-03,Evening Sun,43,186000,0.755,0.631,124.958,0.00481,-4.534,0.0311,0.296,0.531
+394,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",First Impressions Of Earth,album,2006-01-03,Red Light,49,191693,0.837,0.534,103.533,0.649,-3.938,0.0407,0.189,0.903
+395,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Room On Fire,album,2003-10-28,What Ever Happened?,60,169507,0.596,0.547,116.17,0.739,-6.044,0.0339,0.273,0.584
+396,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Room On Fire,album,2003-10-28,Reptilia,76,219827,0.649,0.489,158.009,0.713,-5.11,0.0336,0.101,0.77
+397,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Room On Fire,album,2003-10-28,Automatic Stop,58,207133,0.535,0.675,105.921,0.719,-6.109,0.0376,0.104,0.914
+398,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Room On Fire,album,2003-10-28,12:51,64,153133,0.889,0.451,145.056,0.8,-3.838,0.0379,0.558,0.592
+399,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Room On Fire,album,2003-10-28,You Talk Way Too Much,50,186267,0.971,0.304,127.856,0.955,-3.226,0.0351,0.0799,0.695
+400,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Room On Fire,album,2003-10-28,Between Love & Hate,49,196573,0.603,0.455,104.179,0.53,-4.919,0.0255,0.0966,0.539
+401,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Room On Fire,album,2003-10-28,Meet Me in the Bathroom,50,176160,0.941,0.427,139.956,0.89,-3.973,0.0336,0.0772,0.587
+402,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Room On Fire,album,2003-10-28,Under Control,54,187307,0.72,0.406,91.336,0.795,-4.647,0.0291,0.0541,0.641
+403,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Room On Fire,album,2003-10-28,The Way It Is,46,141733,0.95,0.482,137.074,0.883,-2.593,0.0495,0.0938,0.856
+404,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Room On Fire,album,2003-10-28,The End Has No End,51,185560,0.66,0.531,136.027,0.855,-3.725,0.0335,0.226,0.533
+405,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Room On Fire,album,2003-10-28,I Can't Win,52,162040,0.746,0.472,97.44,0.663,-4.816,0.0321,0.0999,0.403
+406,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Is This It,album,2001-07-30,Is This It,57,151333,0.692,0.667,96.022,3.75e-05,-8.361,0.0285,0.349,0.846
+407,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Is This It,album,2001-07-30,The Modern Age,50,208067,0.888,0.528,145.971,0.756,-6.039,0.0326,0.154,0.897
+408,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Is This It,album,2001-07-30,Soma,50,153840,0.706,0.499,148.928,0.00289,-7.335,0.0302,0.0753,0.483
+409,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Is This It,album,2001-07-30,Barely Legal,49,234693,0.884,0.424,157.813,0.0499,-6.286,0.0365,0.0903,0.852
+410,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Is This It,album,2001-07-30,Someday,70,183440,0.521,0.539,106.035,0.0,-7.46,0.0299,0.367,0.679
+411,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Is This It,album,2001-07-30,"Alone, Together",46,188640,0.863,0.515,143.017,0.893,-5.756,0.0308,0.0616,0.961
+412,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Is This It,album,2001-07-30,Last Nite,67,193373,0.899,0.624,104.061,0.000137,-5.709,0.0296,0.0975,0.79
+413,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Is This It,album,2001-07-30,Hard To Explain,57,224333,0.666,0.408,82.523,0.862,-6.286,0.0578,0.0889,0.666
+414,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Is This It,album,2001-07-30,When It Started,44,175200,0.654,0.721,131.963,0.00392,-8.107,0.0329,0.15,0.903
+415,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Is This It,album,2001-07-30,Trying Your Luck,46,202760,0.687,0.503,143.902,0.0131,-9.427,0.0314,0.131,0.619
+416,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Is This It,album,2001-07-30,Take It Or Leave It,45,196067,0.913,0.43,154.06,0.369,-6.203,0.0389,0.137,0.481
+417,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Future Present Past,single,2016-06-03,Drag Queen,40,273554,0.524,0.544,124.121,0.368,-4.764,0.0436,0.103,0.53
+418,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Future Present Past,single,2016-06-03,Oblivius,53,299233,0.888,0.468,102.959,0.648,-4.463,0.0517,0.151,0.432
+419,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Future Present Past,single,2016-06-03,Threat of Joy,56,264725,0.704,0.59,137.968,0.0825,-7.058,0.0284,0.103,0.691
+420,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Future Present Past,single,2016-06-03,Oblivius - Moretti Remix,31,332016,0.821,0.33,196.039,0.826,-7.901,0.066,0.318,0.188
+421,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Fast Animals,single,2013-03-26,Fast Animals,37,224867,0.733,0.651,141.996,0.0408,-6.197,0.0395,0.0533,0.52
+422,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Taken For A Fool,single,2011-06-27,Taken for a Fool,27,204773,0.893,0.569,137.029,0.00806,-4.424,0.0667,0.23,0.886
+423,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Taken For A Fool,single,2011-06-27,"Taken for a Fool (feat. Elvis Costello) - Live from Madison Square Garden, New York, NY - April 2011",18,217133,0.979,0.433,137.172,3.47e-05,-4.894,0.205,0.974,0.287
+424,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",You Only Live Once/Mercy Mercy Me,single,2006-09-26,You Only Live Once,30,187347,0.908,0.626,120.518,0.553,-2.789,0.0336,0.124,0.969
+425,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",You Only Live Once/Mercy Mercy Me,single,2006-09-26,Mercy Mercy Me (The Ecology),33,157920,0.875,0.449,91.956,0.145,-5.347,0.062,0.0664,0.804
+426,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Modern Girls & Old Fashion Men,single,2004-02-23,Modern Girls & Old Fashion Men,48,221627,0.604,0.506,110.921,0.427,-4.179,0.0283,0.0435,0.347
+427,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Soma (Live In Iceland),single,2002-09-23,Soma - Live In Iceland,23,175333,0.812,0.274,139.526,0.203,-7.397,0.0455,0.973,0.3
+428,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Is This It (Home Recording),single,2002-09-23,Is This It - Home Recording,30,72533,0.378,0.409,209.033,0.0,-7.256,0.0604,0.195,0.889
+429,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Alone, Together (Home Recording)",single,2002-09-23,"Alone, Together - Home Recording",21,196827,0.63,0.503,143.367,0.154,-7.512,0.0267,0.37,0.629
+430,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Hard To Explain/New York City Cops,single,2002-04-30,Hard To Explain,29,225840,0.666,0.406,82.489,0.76,-6.297,0.057,0.057,0.645
+431,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Hard To Explain/New York City Cops,single,2002-04-30,New York City Cops,35,211360,0.855,0.523,107.967,3.34e-05,-7.679,0.0371,0.327,0.486
+432,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Hard To Explain/New York City Cops,single,2002-04-30,Take It Or Leave It - Live in LA; Village Sessions,23,195520,0.928,0.205,160.242,0.039,-6.172,0.171,0.375,0.527
+433,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Hard To Explain/New York City Cops,single,2002-04-30,Trying Your Luck - Live in LA; Village Sessions,24,205760,0.923,0.286,140.126,0.0273,-5.268,0.0757,0.224,0.55
+434,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",New York City Cops (Live In Iceland),single,2001-08-27,New York City Cops - Live In Iceland,22,238000,0.91,0.173,199.44,0.0202,-5.536,0.0559,0.932,0.286
+435,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Like a Stone,21,293960,0.568,0.614,107.855,0.0,-5.477,0.0276,0.0998,0.516
+436,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Alive,12,341160,0.83,0.324,74.993,9.58e-06,-7.615,0.0414,0.255,0.56
+437,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Should I Stay or Should I Go - Remastered,13,187120,0.836,0.742,113.377,0.0,-6.935,0.0993,0.195,0.866
+438,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,I Love Rock 'N Roll,10,175173,0.716,0.534,94.378,0.0,-5.025,0.0431,0.659,0.901
+439,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,"Rebel, Rebel - Live",0,210720,0.98,0.648,125.973,0.00141,-6.378,0.141,0.969,0.641
+440,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Chop Suey!,24,210240,0.929,0.425,127.198,0.000775,-3.899,0.121,0.122,0.299
+441,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Wonderwall - Remastered,9,259836,0.85,0.373,174.662,0.0,-5.881,0.0395,0.138,0.426
+442,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Knockin' On Heaven's Door,10,150027,0.48,0.513,139.653,0.0135,-10.516,0.0284,0.117,0.228
+443,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Black,27,343667,0.549,0.377,76.011,0.0,-10.58,0.0286,0.179,0.239
+444,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Sex on Fire,21,203347,0.905,0.542,153.397,0.0104,-5.653,0.054,0.136,0.373
+445,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Don't Look Back in Anger - Remastered,8,289560,0.938,0.327,162.933,3.79e-06,-3.237,0.0636,0.148,0.327
+446,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Hallelujah,8,413893,0.129,0.328,99.618,0.000798,-12.357,0.034,0.371,0.0915
+447,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Dust in the Wind,9,206267,0.365,0.462,93.571,0.000325,-8.801,0.0282,0.109,0.366
+448,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,All Out of Love,8,237947,0.472,0.52,108.176,7.33e-06,-7.851,0.0257,0.524,0.331
+449,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Still Loving You,13,402040,0.52,0.284,105.607,0.00112,-7.823,0.029,0.114,0.0906
+450,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Under Pressure - Live,0,258293,0.886,0.622,112.061,3.44e-05,-5.225,0.0535,0.983,0.303
+451,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,B.Y.O.B.,10,255467,0.982,0.542,101.81,0.0,-2.687,0.148,0.244,0.708
+452,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Killing In The Name,8,313573,0.833,0.462,87.532,0.0,-4.216,0.312,0.0327,0.659
+453,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Man in the Box,7,284427,0.765,0.347,106.452,7.88e-06,-8.559,0.0409,0.213,0.644
+454,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Even Flow,11,293640,0.891,0.406,105.057,6.73e-06,-8.809,0.0568,0.0688,0.3
+455,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Show Me How to Live,8,277840,0.853,0.43,89.4,0.000173,-3.868,0.0494,0.162,0.367
+456,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Bad Reputation,6,169187,0.974,0.378,203.715,0.0158,-4.055,0.194,0.0588,0.824
+457,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Rock the Casbah - Remastered,11,222539,0.891,0.796,129.94,0.0,-5.814,0.0511,0.0535,0.857
+458,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Don't Stop Believin',6,249787,0.841,0.491,120.393,0.0,-5.846,0.0475,0.351,0.358
+459,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Heroes - Live,0,418413,0.936,0.535,114.979,0.00949,-4.819,0.0543,0.97,0.588
+460,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Toxicity,14,218933,0.876,0.407,116.364,0.00265,-4.145,0.0534,0.215,0.521
+461,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Last Goodbye,8,258293,0.723,0.531,86.999,0.000207,-10.344,0.038,0.263,0.54
+462,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Like a Rolling Stone,5,368973,0.73,0.481,95.702,0.0,-6.098,0.033,0.237,0.522
+463,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Reptilia,9,219827,0.649,0.489,158.009,0.713,-5.11,0.0336,0.101,0.77
+464,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Cochise,6,222027,0.873,0.453,80.413,0.0,-4.867,0.0595,0.0592,0.435
+465,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Carry on Wayward Son,6,323360,0.567,0.48,127.071,0.000336,-12.722,0.0359,0.424,0.8
+466,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,More Than a Feeling,5,285160,0.704,0.393,109.253,0.000112,-7.835,0.0302,0.0887,0.333
+467,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Making Love Out of Nothing at All,6,341747,0.721,0.388,141.286,0.000281,-5.539,0.0329,0.283,0.524
+468,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Drive,5,232453,0.792,0.645,90.567,0.0121,-7.342,0.036,0.119,0.666
+469,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Lonely Day,10,167907,0.796,0.47,113.108,1.1e-06,-3.277,0.0336,0.133,0.215
+470,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Last Kiss,8,196400,0.724,0.62,112.066,0.000197,-6.437,0.0273,0.192,0.767
+471,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Eye of the Tiger,5,246173,0.641,0.822,108.878,0.000311,-8.07,0.0327,0.0818,0.541
+472,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Last Nite,8,193373,0.899,0.624,104.061,0.000137,-5.709,0.0296,0.0975,0.79
+473,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Jeremy,5,319227,0.805,0.288,105.406,0.0,-8.664,0.0357,0.12,0.272
+474,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Rock You Like a Hurricane - 2011,30,255573,0.868,0.584,124.023,0.00207,-5.064,0.0368,0.319,0.71
+475,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,(Don't Fear) The Reaper,4,308280,0.947,0.369,141.186,0.000892,-6.96,0.0624,0.304,0.513
+476,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Ziggy Stardust - Live,0,224547,0.927,0.407,147.971,2.61e-05,-4.355,0.0474,0.977,0.598
+477,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Aerials,16,235600,0.924,0.403,81.058,0.0141,-4.233,0.0546,0.0637,0.242
+478,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,The Final Countdown,4,309693,0.916,0.523,117.555,0.000339,-5.313,0.0716,0.0788,0.153
+479,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Crazy Train,5,293183,0.913,0.454,137.688,0.000271,-4.008,0.107,0.248,0.521
+480,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,London Calling - Remastered,4,200480,0.801,0.651,133.769,0.0,-7.34,0.0514,0.0825,0.776
+481,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Because the Night,4,204800,0.761,0.466,123.585,0.0,-7.756,0.039,0.119,0.48
+482,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Overkill,3,225827,0.755,0.64,139.191,0.0,-6.281,0.0283,0.0828,0.556
+483,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Your Love,7,214133,0.71,0.592,129.896,2.19e-06,-9.376,0.0542,0.0795,0.624
+484,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Rock Clássico,compilation,2019-03-29,Brown Eyed Girl,5,184533,0.483,0.49,149.941,0.0,-14.142,0.0365,0.204,0.905
+485,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,Theme from Spider Man,0,60293,0.619,0.394,105.489,0.00638,-9.846,0.0535,0.57,0.949
+486,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,Hero (feat. Josey Scott) - Motion Picture Version,0,199027,0.829,0.43,147.337,0.0,-4.326,0.0382,0.0666,0.337
+487,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,What We're All About - The Original Version,0,214107,0.899,0.781,107.25,0.0,-5.01,0.134,0.655,0.884
+488,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,Learn To Crawl,24,215467,0.921,0.331,168.017,1.44e-06,-5.011,0.0619,0.116,0.257
+489,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,Somebody Else,21,217267,0.651,0.415,135.036,2.13e-05,-5.746,0.0331,0.114,0.358
+490,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,Bug Bytes,0,210867,0.943,0.5,110.091,0.0,-4.046,0.124,0.283,0.389
+491,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,Blind,0,190467,0.888,0.198,180.351,0.00715,-4.834,0.0612,0.117,0.695
+492,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,Bother,0,239160,0.239,0.265,180.481,2.39e-05,-9.439,0.0297,0.134,0.145
+493,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,Shelter,0,211467,0.863,0.444,114.788,1.25e-05,-6.664,0.0622,0.104,0.229
+494,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,When It Started,31,174533,0.64,0.708,132.016,0.00576,-8.381,0.0339,0.134,0.921
+495,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,Hate To Say I Told You So,0,200467,0.918,0.459,135.858,0.00664,-5.896,0.0544,0.427,0.472
+496,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,Invisible Man,0,159573,0.914,0.441,142.055,2.1e-05,-5.361,0.0769,0.206,0.573
+497,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,Undercover,18,236893,0.828,0.409,126.008,1.48e-05,-5.703,0.0482,0.36,0.28
+498,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,My Nutmeg Phantasy (featuring Angie Stone & Mos Def) - Morello Mix,20,267573,0.824,0.665,94.152,0.0,-5.901,0.0403,0.106,0.581
+499,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,I-IV-V,0,182373,0.952,0.285,89.401,0.0,-5.096,0.138,0.355,0.275
+500,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,She Was My Girl,0,257200,0.861,0.442,128.68,0.0153,-4.683,0.0711,0.0566,0.531
+501,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,Main Titles,23,221600,0.607,0.225,124.739,0.949,-10.579,0.05,0.0737,0.165
+502,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,Farewell,19,282627,0.0512,0.14,101.394,0.87,-19.088,0.0362,0.0995,0.0397
+503,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",Spider Man - Music From And Inspired By,compilation,2002-07-12,Theme from Spider Man,32,176733,0.956,0.468,114.96,2.75e-05,-4.625,0.0928,0.457,0.352
+504,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,An Easy Slide (Rendezvous You Too),1,130013,0.661,0.778,98.698,0.907,-13.508,0.134,0.113,0.747
+505,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Southern State,5,286400,0.538,0.489,115.76,0.0,-8.444,0.0617,0.332,0.211
+506,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Heart Disease,2,210707,0.928,0.513,120.052,0.000277,-6.206,0.0425,0.68,0.633
+507,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,The Best Noise,1,204680,0.521,0.588,110.026,0.0604,-6.385,0.0293,0.232,0.094
+508,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Silver Wind,1,147333,0.932,0.6,130.324,0.921,-4.29,0.0473,0.0924,0.678
+509,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,You Are Majestic,2,322787,0.476,0.74,104.021,0.135,-11.245,0.0833,0.101,0.336
+510,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Ill Street Blues,1,104773,0.304,0.694,90.084,0.0279,-16.894,0.134,0.855,0.469
+511,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Ain't That Lovin' You,1,231480,0.869,0.679,126.227,0.103,-3.22,0.0364,0.311,0.937
+512,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Hey You Dreamer - Colors of Sound,1,100893,0.421,0.341,106.328,0.91,-13.292,0.0291,0.235,0.666
+513,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Ritual - Acoutsic,1,238507,0.2,0.519,119.651,0.0,-14.24,0.0332,0.116,0.0782
+514,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,This City,1,199947,0.634,0.672,120.101,9.44e-05,-6.195,0.0349,0.286,0.391
+515,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Winging It,1,177360,0.306,0.504,129.757,0.93,-10.564,0.0353,0.085,0.442
+516,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Caring is Creepy - Solo Acoustic Version,10,206720,0.437,0.503,97.049,5.9e-05,-6.658,0.0394,0.169,0.329
+517,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Is That All,1,149640,0.412,0.56,152.158,0.546,-10.536,0.0305,0.205,0.303
+518,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,A Saxophone in New York,1,30240,0.0761,0.336,128.896,0.0301,-13.916,0.0783,0.111,0.0404
+519,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Bar Tremolinos (o-No-You-Den),3,202693,0.904,0.664,101.278,0.699,-7.12,0.0574,0.255,0.804
+520,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Where Do We Go from Here?,1,303493,0.61,0.556,89.36,0.0,-6.277,0.0739,0.0771,0.917
+521,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Mercy Mercy Me,32,167880,0.858,0.336,91.74,0.0563,-6.983,0.083,0.354,0.759
+522,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Troubadour,2,290520,0.519,0.65,91.979,0.0935,-9.179,0.0296,0.339,0.501
+523,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Save Me from Destruction - Acoustic Demo,1,211893,0.157,0.433,164.744,0.00953,-15.084,0.0491,0.101,0.201
+524,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Gone for Good,1,180333,0.664,0.539,112.037,0.00253,-6.427,0.0279,0.226,0.371
+525,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Loose Change,0,56280,0.909,0.748,108.275,0.89,-9.934,0.0491,0.0824,0.687
+526,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Spend My Money,1,178760,0.609,0.537,141.37,0.00231,-5.56,0.0457,0.201,0.964
+527,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Light - Pete International Airport Remix,1,343227,0.935,0.492,124.948,0.88,-7.196,0.0644,0.182,0.333
+528,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Grievances,6,186893,0.243,0.473,74.498,0.00033,-12.429,0.0619,0.0433,0.529
+529,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Holding Me Down,0,240547,0.719,0.198,158.054,0.0381,-6.8,0.0303,0.106,0.144
+530,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Scaffolding,0,188880,0.765,0.682,120.004,0.136,-8.712,0.029,0.278,0.508
+531,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,"One Violin, One DJ",0,82467,0.78,0.635,97.978,0.861,-9.006,0.0574,0.273,0.452
+532,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Moves,1,309080,0.802,0.671,178.607,0.000986,-6.532,0.111,0.112,0.581
+533,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Running out of Time,0,246480,0.822,0.69,90.145,0.00135,-7.15,0.25,0.276,0.555
+534,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Whirling Devas,3,118173,0.617,0.676,113.23,0.91,-8.121,0.0399,0.114,0.196
+535,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,The Overgrown Meadow,1,56960,0.0672,0.523,75.919,0.961,-23.296,0.0624,0.102,0.539
+536,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,The Columbia,0,216093,0.266,0.493,83.511,9.15e-05,-14.851,0.0299,0.329,0.289
+537,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Vigilante,3,156333,0.628,0.589,97.152,0.612,-13.311,0.0516,0.125,0.574
+538,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Let's Make a Deal,0,29653,0.578,0.418,151.142,0.901,-22.656,0.0439,0.239,0.574
+539,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Gonna Be Your Santa,0,177960,0.95,0.395,190.104,2.22e-06,-6.995,0.0914,0.787,0.109
+540,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,River Styx - Demo,1,189120,0.874,0.444,128.909,0.00057,-4.921,0.0688,0.208,0.235
+541,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Prone,0,416413,0.954,0.19,97.32,0.538,-4.389,0.0616,0.608,0.42
+542,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Movies,0,263413,0.63,0.456,127.245,0.00929,-8.049,0.0744,0.235,0.492
+543,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Nana,0,162600,0.173,0.228,88.284,0.908,-15.688,0.0435,0.0938,0.058
+544,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,There's No Hurry to Eternity,4,376213,0.411,0.504,117.922,0.913,-13.083,0.0327,0.0875,0.216
+545,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Shame on You,5,410267,0.518,0.304,178.032,0.579,-5.946,0.0289,0.115,0.417
+546,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Love Everybody,1,155667,0.939,0.418,179.893,0.00017,-4.271,0.066,0.457,0.898
+547,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Two Tavern Town,18,186133,0.669,0.486,120.414,2.39e-06,-7.089,0.0369,0.425,0.742
+548,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Tonic Interlude,0,41853,0.188,0.409,106.71,0.000178,-15.33,0.0625,0.594,0.458
+549,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Tonic,0,312573,0.887,0.241,204.283,0.00078,-5.415,0.035,0.268,0.881
+550,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Frank and Judy,0,171360,0.4,0.608,149.684,0.276,-16.892,0.0495,0.29,0.466
+551,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Who's Behind the Door?,0,287307,0.666,0.296,130.087,0.000115,-9.4,0.0388,0.176,0.197
+552,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,The Real Estate,20,184093,0.742,0.499,131.461,0.742,-7.268,0.0301,0.122,0.462
+553,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']","Live from Nowhere Near You, Vol. II",compilation,2011-09-23,Dead End Job at the Dead Letter Office,7,299320,0.95,0.403,121.622,0.436,-6.74,0.0833,0.107,0.345
+554,The Brandals,[],Extra Agressor,album,2023-07-28,Into Madness - Groovebox Story Remix,3,395790,0.683,0.748,113.983,0.918,-7.389,0.0588,0.0798,0.652
+555,The Brandals,[],Extra Agressor,album,2023-07-28,Into Madness - Pablo Cikaso Remix,9,317910,0.853,0.593,115.214,0.164,-6.166,0.0451,0.0647,0.914
+556,The Brandals,[],Extra Agressor,album,2023-07-28,Kafir - Prontaxan Remix,5,277113,0.979,0.44,194.028,0.668,-5.309,0.0532,0.221,0.963
+557,The Brandals,[],Extra Agressor,album,2023-07-28,Preambule - Bottlesmoker Remix,2,260000,0.74,0.687,139.965,0.134,-10.242,0.0387,0.227,0.934
+558,The Brandals,[],Extra Agressor,album,2023-07-28,Retorika - Sattle Remix,1,316000,0.849,0.678,119.993,0.713,-7.412,0.041,0.17,0.968
+559,The Brandals,[],Extra Agressor,album,2023-07-28,Kafir - Jerome Chandra (Javabass) Remix,1,380000,0.95,0.269,85.736,0.0109,-4.753,0.0861,0.319,0.443
+560,The Brandals,[],Extra Agressor,album,2023-07-28,Momentum - Jonathan Pardede (Sunmantra) Remix,1,392000,0.89,0.631,120.005,0.892,-15.768,0.044,0.0671,0.878
+561,The Brandals,[],Extra Agressor,album,2023-07-28,Way Down Below - Reno Renatama Remix,1,412500,0.899,0.8,128.002,0.829,-6.467,0.064,0.0793,0.832
+562,The Brandals,[],Extra Agressor,album,2023-07-28,Momentum - Agrikulture Remix,0,305455,0.886,0.646,110.01,0.237,-4.719,0.0429,0.108,0.18
+563,The Brandals,[],Extra Agressor,album,2023-07-28,Kafir - Merdi Remix,0,346389,0.859,0.672,124.998,0.44,-7.304,0.0501,0.102,0.0906
+564,The Brandals,[],Era Agressor,album,2021-12-18,Preambule,20,256075,0.973,0.543,139.974,0.000408,-4.701,0.0533,0.0499,0.74
+565,The Brandals,[],Era Agressor,album,2021-12-18,Retorika,18,207701,0.897,0.525,149.836,0.00527,-7.056,0.12,0.162,0.519
+566,The Brandals,[],Era Agressor,album,2021-12-18,Into Madness,5,240453,0.866,0.593,101.996,0.0166,-6.511,0.0492,0.288,0.551
+567,The Brandals,[],Era Agressor,album,2021-12-18,The Truth Is Coming Out,25,236011,0.958,0.465,159.992,0.00107,-4.995,0.0525,0.345,0.677
+568,The Brandals,[],Era Agressor,album,2021-12-18,Belum Padam,22,201333,0.905,0.442,90.052,0.000358,-6.413,0.0767,0.129,0.266
+569,The Brandals,[],Era Agressor,album,2021-12-18,Kafir,10,271040,0.871,0.453,92.459,0.193,-7.284,0.0543,0.108,0.288
+570,The Brandals,[],Era Agressor,album,2021-12-18,Way Down Below,8,179477,0.933,0.596,139.955,9.26e-05,-4.401,0.0418,0.469,0.875
+571,The Brandals,[],Era Agressor,album,2021-12-18,Momentum,5,238976,0.904,0.444,82.46,0.777,-5.922,0.0603,0.119,0.436
+572,The Brandals,[],Era Agressor,album,2021-12-18,Back Pages,4,196352,0.899,0.574,141.98,3.86e-05,-4.652,0.0475,0.151,0.591
+573,The Brandals,[],Era Agressor,album,2021-12-18,Suara Rumah Rakyat,14,232363,0.788,0.581,135.005,0.000234,-5.182,0.032,0.208,0.496
+574,The Brandals,[],DGNR8,album,2011-05-11,Start Bleeding!,6,259000,0.991,0.336,145.095,0.335,-0.194,0.0877,0.82,0.12
+575,The Brandals,[],DGNR8,album,2011-05-11,Dry Land,3,238000,0.955,0.546,95.035,0.00681,-2.241,0.0345,0.117,0.619
+576,The Brandals,[],DGNR8,album,2011-05-11,Love Detox,2,218000,0.989,0.489,129.961,0.00102,-0.065,0.0893,0.121,0.448
+577,The Brandals,[],DGNR8,album,2011-05-11,The Last Laugh,5,250000,0.996,0.451,129.954,0.0432,-1.007,0.0861,0.579,0.471
+578,The Brandals,[],DGNR8,album,2011-05-11,Awas Polizei!,21,247000,0.97,0.253,95.019,5.67e-06,-1.364,0.0765,0.0755,0.388
+579,The Brandals,[],DGNR8,album,2011-05-11,Pretty Lies,5,256000,0.994,0.595,124.995,0.298,-2.704,0.0544,0.255,0.911
+580,The Brandals,[],DGNR8,album,2011-05-11,Perak,11,253000,0.996,0.406,142.009,1.67e-06,-0.284,0.0603,0.322,0.398
+581,The Brandals,[],DGNR8,album,2011-05-11,Abrasi,10,262000,0.985,0.315,86.535,0.0,-2.533,0.24,0.348,0.273
+582,The Brandals,[],DGNR8,album,2011-05-11,DGRN8,3,209000,0.971,0.519,145.04,0.85,-3.983,0.0432,0.103,0.853
+583,The Brandals,[],DGNR8,album,2011-05-11,Long Way Home,3,294000,0.994,0.612,110.016,0.00603,-1.297,0.0564,0.11,0.666
+584,The Brandals,[],Brandalisme,album,2007-08-17,Surat Seorang Proletar Buat Para Elit Borjuis,6,420000,0.933,0.214,132.104,0.356,-5.207,0.123,0.155,0.26
+585,The Brandals,[],Brandalisme,album,2007-08-17,100% Kontrol,35,141250,0.926,0.376,190.216,0.00157,-4.866,0.0576,0.331,0.882
+586,The Brandals,[],Brandalisme,album,2007-08-17,Brokenheart Blues,12,245000,0.98,0.426,150.029,2.04e-06,-3.946,0.107,0.156,0.377
+587,The Brandals,[],Brandalisme,album,2007-08-17,Janji 1000 Hari,9,294000,0.966,0.278,144.963,0.000102,-4.927,0.117,0.082,0.23
+588,The Brandals,[],Brandalisme,album,2007-08-17,Tipu Jalanan,17,224000,0.973,0.433,175.074,0.0,-3.274,0.0782,0.0553,0.688
+589,The Brandals,[],Brandalisme,album,2007-08-17,City Boy,4,244000,0.95,0.54,139.892,0.0,-4.623,0.0373,0.0611,0.484
+590,The Brandals,[],Brandalisme,album,2007-08-17,Restless,3,216000,0.927,0.487,144.961,0.0372,-4.077,0.0613,0.0956,0.757
+591,The Brandals,[],Brandalisme,album,2007-08-17,Is It You Girl?,8,330000,0.857,0.444,140.048,0.00353,-4.461,0.0448,0.169,0.522
+592,The Brandals,[],Brandalisme,album,2007-08-17,I Got a Woman,3,197500,0.992,0.379,157.853,0.0,-4.14,0.305,0.642,0.153
+593,The Brandals,[],Brandalisme,album,2007-08-17,Back on the Junk,3,304500,0.947,0.417,139.82,0.0,-4.211,0.0463,0.298,0.428
+594,The Brandals,[],Brandalisme,album,2007-08-17,The Assassin,6,265500,0.952,0.437,117.079,0.0,-4.741,0.066,0.102,0.433
+595,The Brandals,[],Audio Imperialist,album,2005-10-02,Slinky Finger Jam (Intro),4,74773,0.507,0.535,82.081,0.509,-10.719,0.0314,0.24,0.573
+596,The Brandals,[],Audio Imperialist,album,2005-10-02,(I'm Your) Generator,5,177747,0.955,0.517,125.15,7.23e-06,-5.413,0.0769,0.452,0.59
+597,The Brandals,[],Audio Imperialist,album,2005-10-02,24.00 Lewat (Lagu Luna),35,225373,0.954,0.462,144.164,6.36e-05,-5.616,0.0343,0.172,0.686
+598,The Brandals,[],Audio Imperialist,album,2005-10-02,Ode Pinggiran Jakarta,23,273653,0.599,0.453,145.462,0.0,-6.351,0.0371,0.511,0.326
+599,The Brandals,[],Audio Imperialist,album,2005-10-02,Career Crackin',5,202360,0.961,0.322,125.836,0.00477,-6.811,0.0612,0.106,0.747
+600,The Brandals,[],Audio Imperialist,album,2005-10-02,Obsesi Mesin Kota,25,245320,0.984,0.484,149.923,6.35e-05,-5.942,0.0592,0.102,0.623
+601,The Brandals,[],Audio Imperialist,album,2005-10-02,Komplikasi Cinta Transit,15,235493,0.722,0.569,142.031,0.0,-6.938,0.0352,0.122,0.536
+602,The Brandals,[],Audio Imperialist,album,2005-10-02,Drag the Dope Dealer,5,173733,0.858,0.446,142.262,0.0715,-5.885,0.0657,0.365,0.51
+603,The Brandals,[],Audio Imperialist,album,2005-10-02,Black Boy Dynamite Blues,6,218533,0.943,0.551,129.852,9.34e-05,-5.153,0.0657,0.21,0.571
+604,The Brandals,[],Audio Imperialist,album,2005-10-02,Dari The Brandals Buat Yang Bercinta,16,213280,0.96,0.49,99.976,0.0379,-4.1,0.0462,0.0973,0.571
+605,The Brandals,[],Audio Imperialist,album,2005-10-02,Darkened River in My Head,5,227667,0.948,0.534,115.014,0.0,-5.09,0.0376,0.105,0.779
+606,The Brandals,[],Audio Imperialist,album,2005-10-02,Komoditi Fantasi,12,216493,0.967,0.483,155.003,0.0,-5.808,0.0407,0.209,0.864
+607,The Brandals,[],Audio Imperialist,album,2005-10-02,New World Declaration,4,239400,0.988,0.46,135.023,1.63e-05,-4.154,0.0518,0.253,0.476
+608,The Brandals,[],Audio Imperialist,album,2005-10-02,Disorder-Disharmoni,4,356493,0.946,0.446,118.041,0.0007,-5.923,0.0491,0.45,0.409
+609,The Brandals,[],The Brandals,album,2003-12-22,Marching Menuju Maut,13,284000,0.947,0.425,135.083,0.00109,-5.036,0.0503,0.302,0.522
+610,The Brandals,[],The Brandals,album,2003-12-22,Lingkar Labirin,38,227000,0.788,0.52,77.511,0.000132,-7.423,0.0363,0.0497,0.606
+611,The Brandals,[],The Brandals,album,2003-12-22,100 Km/Jam,36,160000,0.955,0.306,175.27,4.66e-06,-5.857,0.086,0.0385,0.701
+612,The Brandals,[],The Brandals,album,2003-12-22,Hati Emosi,18,226500,0.908,0.432,133.628,1.73e-05,-5.818,0.0368,0.169,0.88
+613,The Brandals,[],The Brandals,album,2003-12-22,Moonlight Child,8,186500,0.957,0.5,159.893,2.05e-06,-6.557,0.051,0.0722,0.901
+614,The Brandals,[],The Brandals,album,2003-12-22,Stoned Travel,7,205000,0.771,0.299,184.812,0.0,-6.123,0.0389,0.366,0.748
+615,The Brandals,[],The Brandals,album,2003-12-22,Stagnansi vs. Konformis,12,254500,0.942,0.399,155.05,1.68e-06,-7.115,0.0493,0.0797,0.592
+616,The Brandals,[],The Brandals,album,2003-12-22,Mutasi Urban (Sang Korban I),14,189000,0.895,0.639,129.836,0.0807,-7.44,0.033,0.0983,0.99
+617,The Brandals,[],The Brandals,album,2003-12-22,Vague n' Hollow,6,281000,0.893,0.215,152.513,0.00251,-4.197,0.0668,0.204,0.504
+618,The Brandals,[],The Brandals,album,2003-12-22,Anjing Urban (Sang Korban II),14,237500,0.918,0.312,184.787,0.000155,-5.927,0.0459,0.0528,0.956
+619,The Brandals,[],The Brandals,album,2003-12-22,Ain't Nobody's Bitch,7,227250,0.952,0.375,95.271,0.00655,-4.847,0.0583,0.162,0.553
+620,The Brandals,[],Tanda Tanya,single,2022-03-16,Tanda Tanya,6,350589,0.819,0.357,135.026,0.00103,-3.383,0.0361,0.103,0.0664
+621,The Brandals,[],Preambule,single,2021-10-31,Preambule,9,256075,0.973,0.543,139.974,0.000408,-4.701,0.0533,0.0499,0.74
+622,The Brandals,[],Belum Padam,single,2021-03-21,Belum Padam,8,201333,0.915,0.513,90.008,0.000205,-6.363,0.0804,0.145,0.266
+623,The Brandals,[],The Truth Is Coming Out,single,2020-10-15,The Truth Is Coming Out,26,236011,0.954,0.447,160.032,0.00412,-5.622,0.0428,0.352,0.781
+624,The Brandals,[],Retorika,single,2018-12-21,Retorika,6,207701,0.896,0.525,149.841,0.00514,-7.057,0.123,0.162,0.503
+625,The Brandals,[],"Unreleased Project, Vol. 1",compilation,2018-02-15,Thrill Pills,14,188880,0.969,0.586,121.983,0.0634,-3.245,0.0659,0.142,0.648
+626,The Brandals,[],"Unreleased Project, Vol. 1",compilation,2018-02-15,Us vs,18,230960,0.685,0.497,144.946,0.00258,-6.548,0.0533,0.103,0.388
+627,The Brandals,[],"Unreleased Project, Vol. 1",compilation,2018-02-15,Sangkala,5,209387,0.875,0.636,124.941,4.25e-05,-7.235,0.0734,0.0723,0.463
+628,The Brandals,[],"Unreleased Project, Vol. 1",compilation,2018-02-15,Aku dan Si Bung,7,234280,0.881,0.629,131.866,4.48e-06,-5.883,0.134,0.0755,0.487
+629,The Brandals,[],"Unreleased Project, Vol. 1",compilation,2018-02-15,Classes Society,5,213427,0.849,0.65,110.031,0.000567,-5.441,0.0343,0.569,0.527
+630,The Brandals,[],"Unreleased Project, Vol. 1",compilation,2018-02-15,Lepaskan dan Lupakan,7,214267,0.808,0.603,140.004,0.824,-6.194,0.0329,0.135,0.644
+631,The Brandals,[],"Unreleased Project, Vol. 1",compilation,2018-02-15,Menunggu Untuk Bertemu,28,370373,0.591,0.669,108.511,4.32e-05,-5.427,0.024,0.222,0.448
+632,The Brandals,[],"Unreleased Project, Vol. 1",compilation,2018-02-15,Barat,26,244293,0.852,0.578,120.123,0.366,-5.798,0.0411,0.309,0.382
+633,The Brandals,[],"Unreleased Project, Vol. 1",compilation,2018-02-15,Commune,11,284293,0.75,0.62,109.022,0.0691,-6.623,0.0335,0.0701,0.442
+634,The Brandals,[],"Unreleased Project, Vol. 1",compilation,2018-02-15,We Are the People,14,388467,0.888,0.656,114.978,0.183,-7.926,0.0433,0.452,0.546
+635,The Brandals,[],"Unreleased Project, Vol. 1",compilation,2018-02-15,Kolaborasi,15,219827,0.714,0.695,117.064,0.0273,-7.147,0.0424,0.132,0.592
+636,Eka Annash,[],Aksioma,album,2023-05-26,Persimpangan,19,150313,0.98,0.421,141.804,2.58e-05,-3.333,0.101,0.0376,0.468
+637,Eka Annash,[],Aksioma,album,2023-05-26,Jaman Edan,23,196610,0.965,0.273,117.742,0.000151,-2.976,0.0723,0.0706,0.501
+638,Eka Annash,[],Aksioma,album,2023-05-26,Enam Kaki di Bawah,17,166314,0.924,0.353,153.635,9.05e-05,-3.132,0.0633,0.133,0.592
+639,Eka Annash,[],Aksioma,album,2023-05-26,Tobat,13,273563,0.947,0.391,132.006,0.0789,-3.989,0.078,0.646,0.258
+640,Eka Annash,[],Aksioma,album,2023-05-26,Lelap Dalam Gelap,13,246660,0.937,0.39,160.0,0.00209,-3.003,0.0609,0.273,0.526
+641,Eka Annash,[],Aksioma,album,2023-05-26,Ambisi,28,252906,0.954,0.452,149.951,7.83e-06,-4.163,0.0845,0.12,0.541
+642,Eka Annash,[],Aksioma,album,2023-05-26,HURUHARA,27,154500,0.928,0.42,175.121,0.000148,-4.556,0.11,0.131,0.738
+643,Eka Annash,[],Aksioma,album,2023-05-26,Topeng Monyet,14,216636,0.876,0.266,123.174,2.17e-05,-3.255,0.0448,0.112,0.637
+644,Eka Annash,[],Aksioma,album,2023-05-26,Cari Mati!,25,251375,0.958,0.351,200.145,0.00466,-3.595,0.0942,0.27,0.568
+645,Eka Annash,[],Aksioma,album,2023-05-26,Aksioma,12,221062,0.833,0.494,114.94,1.92e-06,-3.322,0.0447,0.0999,0.657
+646,Eka Annash,[],Selamat Datang Patah Hati,single,2024-05-24,Selamat Datang Patah Hati,20,231936,0.811,0.76,132.024,0.0,-6.745,0.0298,0.109,0.868
+647,Eka Annash,[],HURUHARA,single,2023-05-19,HURUHARA,10,154500,0.928,0.42,175.121,0.000148,-4.556,0.11,0.131,0.738
+648,Eka Annash,[],Lelap Dalam Gelap,single,2023-05-12,Lelap Dalam Gelap,5,246660,0.937,0.39,160.0,0.00209,-3.003,0.0609,0.273,0.526
+649,Eka Annash,[],Cari Mati!,single,2023-05-05,Cari Mati!,12,251375,0.958,0.351,200.145,0.00466,-3.595,0.0942,0.27,0.568
+650,Eka Annash,[],Ambisi,single,2023-02-21,Ambisi,12,252906,0.954,0.452,149.951,7.83e-06,-4.163,0.0845,0.12,0.541
+651,Eka Annash,[],LUST SEX DESIRE,single,2023-03-31,L.S.D,11,117677,0.717,0.595,119.893,0.711,-11.284,0.0527,0.126,0.32
+652,Eka Annash,[],LUST SEX DESIRE,single,2023-03-31,I Hear Your....,11,117500,0.92,0.455,154.937,0.0147,-4.443,0.097,0.126,0.45
+653,Eka Annash,[],LUST SEX DESIRE,single,2023-03-31,W.W.I.D,14,195871,0.885,0.409,154.578,0.907,-4.88,0.231,0.324,0.775
+654,Eka Annash,[],LUST SEX DESIRE,single,2023-03-31,mesinsexibukota,4,251000,0.884,0.785,120.022,0.727,-5.557,0.0335,0.244,0.94
+655,Eka Annash,[],LUST SEX DESIRE,single,2023-03-31,NICO10,3,196286,0.817,0.612,139.986,0.0265,-6.106,0.0372,0.479,0.869
+656,Eka Annash,[],LUST SEX DESIRE,single,2023-03-31,Saturday Night,3,181622,0.545,0.617,148.027,0.45,-7.944,0.0538,0.108,0.83
+657,Eka Annash,[],Softcore,album,2018-10-12,History Of Witches,3,110467,0.582,0.494,113.127,8.01e-06,-7.626,0.0332,0.326,0.394
+658,Eka Annash,[],Softcore,album,2018-10-12,Speaking Tongues,5,230347,0.401,0.516,113.785,0.0,-10.127,0.0325,0.163,0.322
+659,Eka Annash,[],Softcore,album,2018-10-12,Rest Your Head On The Day,12,265040,0.313,0.409,123.622,0.0242,-10.323,0.029,0.11,0.0678
+660,Eka Annash,[],Softcore,album,2018-10-12,Season Finale,6,129080,0.495,0.448,108.714,0.000178,-9.313,0.0246,0.0997,0.397
+661,Eka Annash,[],Softcore,album,2018-10-12,Idol Semen,1,151853,0.576,0.494,114.472,0.0,-8.596,0.043,0.0878,0.354
+662,Eka Annash,[],Softcore,album,2018-10-12,Fatamorgana (Quiet),2,212613,0.455,0.436,110.041,0.0209,-11.718,0.0344,0.354,0.26
+663,Eka Annash,[],Softcore,album,2018-10-12,Fin [Theme Music],1,181013,0.332,0.304,120.093,0.641,-13.697,0.0401,0.111,0.125
+664,Eka Annash,[],Demam Berdansa Volume 1,album,2023-07-28,Demam Berdansa,0,147957,0.883,0.591,102.003,0.762,-6.685,0.0315,0.379,0.902
+665,Eka Annash,[],Demam Berdansa Volume 1,album,2023-07-28,Hey Kamu,5,206858,0.538,0.739,118.04,1.5e-05,-9.174,0.0399,0.0513,0.803
+666,Eka Annash,[],Demam Berdansa Volume 1,album,2023-07-28,Nona Manis,9,254796,0.8,0.58,97.992,0.000392,-7.408,0.0261,0.438,0.754
+667,Eka Annash,[],Demam Berdansa Volume 1,album,2023-07-28,LDR,1,248646,0.667,0.524,148.003,0.00224,-9.989,0.0277,0.412,0.245
+668,Eka Annash,[],Demam Berdansa Volume 1,album,2023-07-28,Primadona,0,247727,0.567,0.481,84.89,0.000145,-9.979,0.0394,0.115,0.354
+669,Eka Annash,[],Demam Berdansa Volume 1,album,2023-07-28,Ulang Tahun,0,226478,0.549,0.66,124.038,1.04e-05,-10.308,0.0301,0.0953,0.818
+670,Eka Annash,[],Demam Berdansa Volume 1,album,2023-07-28,Berandalan Disko,0,229174,0.865,0.626,128.004,0.00568,-7.806,0.027,0.103,0.9
+671,Eka Annash,[],mesinsexibukota,single,2022-10-28,mesinsexibukota,9,251000,0.884,0.785,120.022,0.727,-5.557,0.0335,0.244,0.94
+672,Eka Annash,[],Voice Of Humanity,compilation,2021-03-05,Reuni - Reunion Acapella Version,0,216953,0.503,0.609,129.94,0.0,-4.402,0.0338,0.701,0.849
+673,Eka Annash,[],Voice Of Humanity,compilation,2021-03-05,Senyum Sedekah,0,189176,0.339,0.608,170.013,0.0,-6.334,0.0273,0.129,0.837
+674,Eka Annash,[],Voice Of Humanity,compilation,2021-03-05,Long Way Home - Acapella Version,0,167245,0.539,0.773,109.932,0.0,-7.943,0.0508,0.528,0.65
+675,Eka Annash,[],Voice Of Humanity,compilation,2021-03-05,Menangis Tanpa Jeda - Acapella Version,0,190075,0.465,0.372,116.355,0.00144,-11.103,0.106,0.27,0.162
+676,Eka Annash,[],Voice Of Humanity,compilation,2021-03-05,Menuju Cahaya - Acapella Version,0,175286,0.362,0.554,139.928,0.0,-6.524,0.0281,0.0901,0.273
+677,Eka Annash,[],Voice Of Humanity,compilation,2021-03-05,Kembali Ke Masjid - Acapella Version,0,213095,0.339,0.66,109.915,0.0,-6.81,0.0294,0.156,0.385
+678,Eka Annash,[],Voice Of Humanity,compilation,2021-03-05,Inklusif - Acapella Version,0,200830,0.509,0.52,117.106,1.09e-05,-4.716,0.0344,0.102,0.565
+679,Eka Annash,[],Voice Of Humanity,compilation,2021-03-05,Salam - Acapella Version,0,178087,0.369,0.728,149.693,0.0122,-8.544,0.035,0.203,0.814
+680,Eka Annash,[],Voice Of Humanity,compilation,2021-03-05,Bencana - Acapella Version,5,156215,0.325,0.379,64.938,0.0,-6.146,0.0271,0.134,0.196
+681,Eka Annash,[],Voice Of Humanity,compilation,2021-03-05,Senyum Hari Esok - Acapella Version,0,257103,0.355,0.748,119.997,8.73e-06,-5.773,0.036,0.0944,0.329
+682,Eka Annash,[],Voice Of Humanity,compilation,2021-03-05,Sabar Adalah Koentji,0,240000,0.637,0.721,80.06,0.0,-4.728,0.178,0.718,0.618
+683,Eka Annash,[],In The Dark (feat. Eka Annash),single,2021-11-12,In The Dark (feat. Eka Annash),1,352667,0.798,0.537,90.005,0.00215,-7.932,0.0599,0.41,0.341
+684,Eka Annash,[],Dunia Dalam Berita,single,2020-12-20,Dunia Dalam Berita,0,239187,0.946,0.61,91.994,0.00599,-5.024,0.0584,0.198,0.318
